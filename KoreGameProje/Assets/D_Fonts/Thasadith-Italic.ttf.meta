@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 56314d2afa5482042ba000347e73626f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Thasadith
+  fontNames:
+  - Thasadith
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 082b1a17cca8f87469999971c69f0f1c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

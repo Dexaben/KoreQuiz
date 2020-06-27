@@ -1,0 +1,3745 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1445231825003872}
+  m_IsPrefabAsset: 1
+--- !u!1 &1006670449325182
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224244026345235002}
+  - component: {fileID: 222616242898074494}
+  - component: {fileID: 114214058825551578}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1036762737531132
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224446392464262204}
+  - component: {fileID: 222393152293725634}
+  - component: {fileID: 114670822560372756}
+  - component: {fileID: 114059523065693070}
+  m_Layer: 0
+  m_Name: Button (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1075587218758530
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224894402258700692}
+  - component: {fileID: 222221967342958042}
+  - component: {fileID: 114313180484474884}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1142015046899492
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224674464741909770}
+  - component: {fileID: 222344651601643088}
+  - component: {fileID: 114556055899393032}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1186178873273878
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224311701437556326}
+  - component: {fileID: 222180907428887340}
+  - component: {fileID: 114392296776151486}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1220670798582712
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224421645682080354}
+  - component: {fileID: 222489637456616502}
+  - component: {fileID: 114000501876778208}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1274219286122414
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224189285833943978}
+  - component: {fileID: 222353513852942518}
+  - component: {fileID: 114236587520988380}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1302838369675084
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224951710299877364}
+  - component: {fileID: 222842116888295100}
+  - component: {fileID: 114442647347826874}
+  m_Layer: 0
+  m_Name: soru_text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1309120345332990
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224844474550064140}
+  - component: {fileID: 222147776568775628}
+  - component: {fileID: 114636253851156332}
+  m_Layer: 0
+  m_Name: Text (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1343203284683906
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224632164664651336}
+  m_Layer: 0
+  m_Name: ddasasdsda
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1368684422496840
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224253995561388274}
+  - component: {fileID: 222942577332182786}
+  - component: {fileID: 114738324932027180}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1392414721680324
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224407873134639662}
+  - component: {fileID: 223986572101954772}
+  - component: {fileID: 114421589000229124}
+  - component: {fileID: 114151350156442678}
+  - component: {fileID: 222706754371195920}
+  - component: {fileID: 114827085644169550}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1410385298115608
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224478235255584062}
+  - component: {fileID: 222824045342302066}
+  - component: {fileID: 114783216224315598}
+  m_Layer: 0
+  m_Name: Panel (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1445231825003872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4551138420701816}
+  - component: {fileID: 114576570501066236}
+  m_Layer: 0
+  m_Name: DuzSoru
+  m_TagString: soru
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1470403479273734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224425331370903760}
+  - component: {fileID: 223042259255293412}
+  - component: {fileID: 114440491080263080}
+  - component: {fileID: 114894122608353082}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1478961442952700
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224467490119015952}
+  - component: {fileID: 222614492575151828}
+  - component: {fileID: 114617980102677332}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1505768038411896
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224508788761306794}
+  - component: {fileID: 222861536852464758}
+  - component: {fileID: 114353071047514614}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1521569633950164
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224780806592182172}
+  - component: {fileID: 222470841505427022}
+  - component: {fileID: 114546375792673624}
+  - component: {fileID: 114873695287820846}
+  m_Layer: 0
+  m_Name: D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1572551366033224
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224434578881826052}
+  - component: {fileID: 222780060612575666}
+  - component: {fileID: 114147611846836844}
+  - component: {fileID: 114511413133920570}
+  m_Layer: 0
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1600156247231276
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224329743156695234}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1637300736533168
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224963608693407520}
+  - component: {fileID: 222052198573367788}
+  - component: {fileID: 114950654482457376}
+  - component: {fileID: 114141463828361318}
+  m_Layer: 0
+  m_Name: SoruyuGec
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1643923053165246
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224162209243053848}
+  - component: {fileID: 222998211396672930}
+  - component: {fileID: 114936236932049758}
+  m_Layer: 0
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1658652414502476
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224208578683535890}
+  - component: {fileID: 222677268787287132}
+  - component: {fileID: 114890395441672862}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1692140774936100
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224138444105568396}
+  - component: {fileID: 222345733074881380}
+  - component: {fileID: 114110068540972538}
+  m_Layer: 0
+  m_Name: Panel (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1728407910391260
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224768906830236432}
+  - component: {fileID: 222906995970652820}
+  - component: {fileID: 114551376962063208}
+  - component: {fileID: 114540754580915458}
+  m_Layer: 0
+  m_Name: A
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1733990316870512
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224668294749508198}
+  - component: {fileID: 222785089432799884}
+  - component: {fileID: 114595934988686720}
+  m_Layer: 0
+  m_Name: Panel (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1780284783632478
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224755867141958340}
+  - component: {fileID: 222920007776543282}
+  - component: {fileID: 114101864669886630}
+  - component: {fileID: 114756853600891134}
+  m_Layer: 0
+  m_Name: B
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1868829310485744
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224367787805110420}
+  - component: {fileID: 222583135477060098}
+  - component: {fileID: 114135684102418754}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1879428348060190
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224285301857153088}
+  - component: {fileID: 222177145823165354}
+  - component: {fileID: 114973184132683204}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1920306344839754
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224414055843995508}
+  - component: {fileID: 222988292217579496}
+  - component: {fileID: 114578385763668268}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1935645404696478
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224998267269841754}
+  - component: {fileID: 222513558604817998}
+  - component: {fileID: 114615845753055174}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1962627004269192
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224175835930689212}
+  - component: {fileID: 222528864616374266}
+  - component: {fileID: 114056839723912376}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1974860845645522
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224593850831757978}
+  - component: {fileID: 222410961142232494}
+  - component: {fileID: 114924594211543428}
+  - component: {fileID: 114839303263232232}
+  m_Layer: 0
+  m_Name: C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1997040812856238
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224576970768948580}
+  - component: {fileID: 222600020052375128}
+  - component: {fileID: 114506081521191434}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4551138420701816
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1445231825003872}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 654.14923, y: -103.81433, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224425331370903760}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000501876778208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114056839723912376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 59
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 59
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "1500 KP kar\u015F\u0131l\u0131\u011F\u0131nda soru ge\xE7ilsin mi?"
+--- !u!114 &114059523065693070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114670822560372756}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1392414721680324}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114101864669886630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114110068540972538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114135684102418754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: D
+--- !u!114 &114141463828361318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114950654482457376}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1392414721680324}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114147611846836844
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.30235848, g: 1, b: 0.2783019, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114151350156442678
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &114214058825551578
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114236587520988380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114313180484474884
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: B
+--- !u!114 &114353071047514614
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 56314d2afa5482042ba000347e73626f, type: 3}
+    m_FontSize: 64
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 64
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: EVET
+--- !u!114 &114392296776151486
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 63
+    m_FontStyle: 2
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 63
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: SORU
+--- !u!114 &114421589000229124
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &114440491080263080
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 1280}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &114442647347826874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: bf9046da7825f394aab671220d1057a2, type: 3}
+    m_FontSize: 94
+    m_FontStyle: 2
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 94
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\"Derste uyuyorum zaten ders ba\u015Flar ba\u015Flamaz bilincimi kaybediyorum.\"repli\u011Fi
+    hangi diziye aittir?"
+--- !u!114 &114506081521191434
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114511413133920570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114147611846836844}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: sorugec
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114540754580915458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114551376962063208}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114546375792673624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114551376962063208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114556055899393032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: C
+--- !u!114 &114576570501066236
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1445231825003872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ecccec89fe328b498e5ea53359542ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scenecontroller: {fileID: 0}
+  question:
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisi de\u011Fildir?"
+    answ1: MOTHER
+    answ2: GOBLIN
+    answ3: SHAMELESS
+    answ4: MISTRESS
+    correctansw: SHAMELESS
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisidir?"
+    answ1: CHERNOBLY
+    answ2: THE HEIRS
+    answ3: THE 100
+    answ4: SUPERNATURAL
+    correctansw: THE HEIRS
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisidir?"
+    answ1: LUCIFER
+    answ2: PEAKY BLINDERS
+    answ3: GAME OF THE THRONES
+    answ4: FAITH
+    correctansw: FAITH
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisi, bir bestecinin (Lee Hyun-Woo)
+      a\u015Fk\u0131n\u0131 konu almaktad\u0131r?"
+    answ1: "THE L\u0130AR AND H\u0130S LOVER"
+    answ2: STRONG WOMAN DO BONG SOON
+    answ3: "WEIGHTLIFTING FA\u0130RY K\u0130M BOK JOO"
+    answ4: CIRCLE
+    correctansw: "THE L\u0130AR AND H\u0130S LOVER"
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisinin ba\u015Frol\xFCnde
+      bir uzayl\u0131 karakter bulunmaktad\u0131r?"
+    answ1: THE LEGEND OF THE BLUE SEA
+    answ2: MAN FROM THE STARS
+    answ3: WHILE YOU WERE SLEEPING
+    answ4: GOOD DOCTOR
+    correctansw: MAN FROM THE STARS
+  - questions: "A\u015Fa\u011F\u0131daki hangisi bir kore dizisidir?"
+    answ1: HOW I MET YOUR MOTHER
+    answ2: GOBLIN
+    answ3: THE WALKING DEAD
+    answ4: BLACK MIRROR
+    correctansw: GOBLIN
+  - questions: "Kim Shin, sevdi\u011Fi bir\xE7ok insan\u0131n \xF6l\xFCm\xFCn\xFC
+      g\xF6ren ve \xF6l\xFCms\xFCz hayat\u0131n\u0131 sonland\u0131rmak isteyen tuhaf
+      bir yarat\u0131kt\u0131r. Ba\u015Frol\xFCnden bahsedilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: MISTY
+    answ2: GOBLIN
+    answ3: MASK
+    answ4: GOOD MANAGER
+    correctansw: GOBLIN
+  - questions: "Dizi , g\xFCne\u015F tutulmas\u0131 s\u0131ras\u0131nda Goryeo Hanedanl\u0131\u011F\u0131
+      zaman\u0131na geri giden ve orada di\u011Fer insanlar\u0131n korkudan \xF6n\xFCnde
+      titredi\u011Fi Wang So'ya a\u015F\u0131k olan bir k\u0131z\u0131n \xF6yk\xFCs\xFCn\xFC
+      anlatmaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: MOON EMBRACING SUN
+    answ2: RULER MASTER OF THE MASK
+    answ3: 49 DAYS
+    answ4: MOON LOVERS
+    correctansw: MOON LOVERS
+  - questions: "W(Two Worlds) dizisinde, Han Hyo Joo'nun canland\u0131rd\u0131\u011F\u0131
+      karakterin ad\u0131 nedir?"
+    answ1: YOON SO HEE
+    answ2: "K\u0130M M\u0130N JAE"
+    answ3: OH YEON JOO
+    answ4: "HWA YOUNG SH\u0130"
+    correctansw: OH YEON JOO
+  - questions: "Kim Shin ve Eun Tak karakterleri a\u015Fa\u011F\u0131daki hangi diziye
+      aittir?"
+    answ1: "CHEESE \u0130N THE TRAP"
+    answ2: REVENGE
+    answ3: GOBLIN
+    answ4: MASTER
+    correctansw: GOBLIN
+  - questions: "Goblin dizisi ka\xE7 b\xF6l\xFCmden olu\u015Fmaktad\u0131r? "
+    answ1: 14
+    answ2: 16
+    answ3: 15
+    answ4: 13
+    correctansw: 16
+  - questions: "Goryeon Hanedanl\u0131\u011F\u0131 a\u015Fa\u011F\u0131daki dizilerden
+      hangisinde bulunmaktad\u0131r?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: D-DAY
+    answ3: MOTHER
+    answ4: MOON LOVERS
+    correctansw: MOON LOVERS
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi Kore'de bir televizyon kanal\u0131d\u0131r?"
+    answ1: SBA
+    answ2: SBC
+    answ3: SBE
+    answ4: SBS
+    correctansw: SBS
+  - questions: "Dizi, fiziksel olarak g\xFC\xE7l\xFC bir kad\u0131n olan (Park Bo-Young)
+      ile bir CEO olan An Min-Hyuk (Park Hyung-Sik) aras\u0131ndaki a\u015Fk\u0131
+      anlatmaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: WEIGHTLIFTING FAIRY KIM BOK JOO
+    answ2: STRONG WOMAN DO BONG SOON
+    answ3: BIG
+    answ4: THE HEIRS
+    correctansw: STRONG WOMAN DO BONG SOON
+  - questions: "Birle\u015Fmi\u015F Milletlerin bar\u0131\u015F askeri g\xFCc\xFCnde
+      g\xF6rev yapan Y\xFCzba\u015F\u0131 Yoo Shi-Jin (Song Joong-Ki) ile doktor Kang
+      Mo-Yeon (Song Hye-Kyo) aras\u0131ndaki a\u015Fk hikayesini anlatmaktad\u0131r.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: MOON LOVERS
+    answ3: K2
+    answ4: DOCTORS
+    correctansw: DESCENDANTS OF THE SUN
+  - questions: "Oyuncular\u0131: Lee Min Ho, Krystal, Park Shin Hye olan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "THE HE\u0130RS"
+    answ2: SCHOOL 2013
+    answ3: THE LEGEND OF THE BLUE SEA
+    answ4: "MEMOR\u0130ES OF THE ALHAMBRA"
+    correctansw: "THE HE\u0130RS"
+  - questions: "T\xFCrkiye'de 'Kalp At\u0131\u015F\u0131' ad\u0131yla yay\u0131nlanm\u0131\u015F
+      olan dizi hangi kore dizisinden uyarlanm\u0131\u015Ft\u0131r? "
+    answ1: DOCTORS
+    answ2: GOOD DOCTOR
+    answ3: ROMANTIC DOCTOR TEACHER KIM
+    answ4: DOCTOR JOHN
+    correctansw: DOCTORS
+  - questions: "Lee Jong Suk a\u015Fa\u011F\u0131daki hangi dizide oynamam\u0131\u015Ft\u0131r?"
+    answ1: MASK
+    answ2: W
+    answ3: PINOCCHIO
+    answ4: I HEAR YOUR VOICE
+    correctansw: MASK
+  - questions: "Yak\u0131nlardaki biri ondan ho\u015Fland\u0131\u011F\u0131nda ki\u015Fiye
+      haber veren bir uygulaman\u0131n oldu\u011Fu bir d\xFCnyada Kim Jojo, ki\u015Fisel
+      sorunlar\u0131yla ba\u015Fa \xE7\u0131karken gen\xE7 ya\u015Fta a\u015Fk\u0131
+      tadar.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: LOVE ALARM
+    answ2: DESIGNATED 60 DAYS
+    answ3: WEIGHTLIFTING FAIRY KIM BOK JOO
+    answ4: KILL ME HEAL ME
+    correctansw: LOVE ALARM
+  - questions: "Lee Min Ho A\u015Fa\u011F\u0131daki dizilerden hangisinde oynamam\u0131\u015Ft\u0131r?"
+    answ1: THE HEIRS
+    answ2: THE LEGEND OF THE BLUE SEA
+    answ3: PLAY FULL KISS
+    answ4: BOYS OVER FLOWERS
+    correctansw: PLAY FULL KISS
+  - questions: "Lee jong suk a\u015Fa\u011Fidaki hangi dizide rol almam\u0131\u015Ft\u0131r?"
+    answ1: DOCTOR STRANGER
+    answ2: MISTY
+    answ3: W
+    answ4: PINOCCHIO
+    correctansw: MISTY
+  - questions: "Dizi, ge\xE7mi\u015Fte kalpleri k\u0131r\u0131lm\u0131\u015F bir \u015Fekilde
+      ayr\u0131lan sonra tekrar bir araya gelen bir adam (Kim Woo-Bin) ve bir kad\u0131n\u0131n
+      (Suzy) aras\u0131ndaki a\u015Fk hikayesini anlatmaktad\u0131r.Konusu verilen
+      dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: UNCONTROLLABLY FOND
+    answ2: SCHOOL 2013
+    answ3: THE HEIRS
+    answ4: LOVE CELLS
+    correctansw: UNCONTROLLABLY FOND
+  - questions: "B\xF6l\xFCm say\u0131s\u0131 en az olan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir? "
+    answ1: KILL ME HEAL ME
+    answ2: FIGHT FOR MY WAY
+    answ3: PAGE TURNER
+    answ4: PLAYER
+    correctansw: PAGE TURNER
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisi de\u011Fildir??"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: RIVERDALE
+    answ3: BLACK
+    answ4: MASTER
+    correctansw: RIVERDALE
+  - questions: "Ba\u015Frollerinin ger\xE7ek hayatta evlenmi\u015F oldu\u011Fu dizi
+      a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: BLOOD
+    answ2: GOBLIN
+    answ3: HIGH KICK
+    answ4: MASTER SUN
+    correctansw: BLOOD
+  - questions: "B\xF6l\xFCm say\u0131s\u0131 en fazla olan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: PAGE TURNER
+    answ2: TRAP
+    answ3: SOMEHOW 18
+    answ4: HOTEL DEL LUNA
+    correctansw: HOTEL DEL LUNA
+  - questions: "A\u015Fa\u011F\u0131daki hangisi kore dizisi de\u011Fildir?"
+    answ1: GOBLIN
+    answ2: LA CASA DE PAPEL
+    answ3: DESCENDANTS OF THE SUN
+    answ4: BLACK
+    correctansw: LA CASA DE PAPEL
+  - questions: "Dizi, Itaewon'daki iflas\u0131n e\u015Fi\u011Findeki Waikiki konuk
+      evini i\u015Fleten \xFC\xE7 ki\u015Fi (Kim Jung-Hyun, Lee Yi-Kyung, Son Seung-Won)
+      etraf\u0131nda d\xF6nmektedir. Bir g\xFCn, kuca\u011F\u0131nda gizemli bir bebek
+      ile bek\xE2r bir anne (Jung In-Sun) \xE7\u0131kagelir.Konusu verile dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "EULACHACHA WA\u0130K\u0130K\u0130"
+    answ2: UNCONTROLLABLY FOND
+    answ3: "T\u0130ME"
+    answ4: TRAP
+    correctansw: "EULACHACHA WA\u0130K\u0130K\u0130"
+  - questions: "Dizi, 2018 y\u0131l\u0131nda, G\xFCney Katolik Hastanesinde, ger\xE7ekle\u015Fen
+      do\u011Fa\xFCst\xFC g\xFC\xE7lerden, sevdikleri insanlar\u0131 korumak i\xE7in
+      birlikte m\xFCcadele eden, bir doktor (Jung Yoo-Mi) ve bir rahibin (Yeon Woo-Jin)
+      etraf\u0131nda d\xF6nmektedir.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 'PRIEST '
+    answ2: MOTHER
+    answ3: DDAY
+    answ4: MASTER
+    correctansw: 'PRIEST '
+  - questions: "Personal Taste/ The Heirs / BOF/Faith dizilerinde ba\u015Frol oynayan
+      oyuncu a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: LEE MIN HO
+    answ2: LEE JONG SUK
+    answ3: LEE SUNG KYUNG
+    answ4: "PARK SH\u0130N HYE"
+    correctansw: LEE MIN HO
+  - questions: "Healer/K2/Suspicious Partner dizilerinde ba\u015Frol oynayan oyuncu
+      a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: LEE MIN HO
+    answ2: IU
+    answ3: JI CHANG WOOK
+    answ4: JANG HYUK
+    correctansw: JI CHANG WOOK
+  - questions: "Bir k\u0131z\u0131n hayaletleri g\xF6rmesini konu alan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: MASK
+    answ2: OH MY GHOST
+    answ3: EMPRESS KI
+    answ4: STRONG WOMAN DO BONG SOON
+    correctansw: OH MY GHOST
+  - questions: "Hayaletler alakal\u0131 olmayan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: OH MY GHOST
+    answ2: MASTERS SUN
+    answ3: ARE YOU HUMAN TOO
+    answ4: GUEST
+    correctansw: ARE YOU HUMAN TOO
+  - questions: "Dizi, bir insanm\u0131\u015F gibi davranan bir robot (Seo Kang-Joon)
+      ile onun bir insan oldu\u011Funu sanan korumas\u0131 (Kong Seung-Yeon) etraf\u0131nda
+      d\xF6nmektedir. Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: I AM NOT A ROBOT
+    answ2: ARE YOU HUMAN TOO
+    answ3: MY ABSOLUTE BOYFRIEND
+    answ4: STRONG WOMAN DO BONG SOON
+    correctansw: I AM NOT A ROBOT
+  - questions: "Seri katillerin ge\xE7ti\u011Fi film a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "WEI\u0307GHTLI\u0307FTI\u0307NG FAI\u0307RY KI\u0307M BOK JOO"
+    answ2: VOICE
+    answ3: PRIEST
+    answ4: GAME OVER
+    correctansw: VOICE
+  - questions: "Dizi, kad\u0131n bir savc\u0131 (Jung Yoo-Mi) ve tuhaf ama bir o kadar
+      ba\u015Far\u0131l\u0131 y\xF6ntemler kullanan bir adli t\u0131p doktorunun (Jung
+      Jae-Young) etraf\u0131nda d\xF6nmektedir. \u0130kili, gizemli cinayet davalar\u0131n\u0131
+      \xE7\xF6zmek i\xE7in i\u015F birli\u011Fi yapar.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir"
+    answ1: PARTNERS FOR JUSTICE
+    answ2: DOCTORS
+    answ3: DOCTOR STRANGER
+    answ4: GOOD DOCTOR
+    correctansw: PARTNERS FOR JUSTICE
+  - questions: "Dizi, a\u015Fktan ald\u0131\u011F\u0131 b\xFCy\xFCk bir yaradan sonra
+      kalbinin kap\u0131lar\u0131n\u0131 herkese kapatan bir kad\u0131n\u0131n (Minah)
+      etraf\u0131nda d\xF6nmektedir. Bir \u015Fekilde, m\xFCkemmel bir erkek arkada\u015F
+      olmas\u0131 i\xE7in programlanan insan g\xF6r\xFCn\xFCml\xFC bir android robot
+      (Yeo Jin-Goo) edinir.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: ARE YOU HUMAN TOO
+    answ2: I AM NOT A ROBOT
+    answ3: MY ABSOLUTE BOYFRIEND
+    answ4: GOLD
+    correctansw: MY ABSOLUTE BOYFRIEND
+  - questions: "A\u015Fa\u011F\u0131daki hangisi kore dizisi de\u011Fildir?"
+    answ1: YOU
+    answ2: MAN FROM THE STARS
+    answ3: GOBLIN
+    answ4: BLACK
+    correctansw: YOU
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisi kore dizisidir?"
+    answ1: MARIANNE
+    answ2: LEVEL UP
+    answ3: SHERLOCK
+    answ4: STRANGER THINGS
+    correctansw: LEVEL UP
+  - questions: "Zombilerin oldu\u011Fu dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: KINGDOM
+    answ2: ELITE
+    answ3: THE LEGEND OF THE BLUE SEA
+    answ4: I AM SORRY I LOVE YOU
+    correctansw: KINGDOM
+  - questions: "Dizi, yeniden yap\u0131land\u0131rma uzman\u0131 Ahn Dan-Te (Sung
+      Hoon) ve oyun a\u015F\u0131\u011F\u0131 Shin Yeon-Hwa\u2019n\u0131n (Han Bo-Reum)
+      etraf\u0131nda d\xF6nmektedir. Birlikte iflas eden bir oyun \u015Firketini canland\u0131rmak
+      i\xE7in m\xFCcadele ederler. \u0130lk ba\u015Flarda, b\xFCy\xFCk anla\u015Fmazl\u0131klar
+      ya\u015Fayan bu ikili zaman ge\xE7tik\xE7e birbirlerine a\u015F\u0131k olur.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir."
+    answ1: "CLASS OF L\u0130ES"
+    answ2: ARE YOU HUMAN TOO
+    answ3: LEVEL UP
+    answ4: THE UNDATEABLES
+    correctansw: LEVEL UP
+  - questions: "G\xFCney Kore'de yeni do\u011Fmu\u015F bir \xE7ocuk ka\xE7 ya\u015F\u0131nda
+      say\u0131l\u0131yor?"
+    answ1: 0
+    answ2: 1
+    answ3: 2
+    answ4: 3
+    correctansw: 1
+  - questions: "G\xFCney Kore'nin en \xFCnl\xFC adas\u0131 olan ve dizilerinde de
+      s\u0131ks\u0131k ad\u0131 ge\xE7en ada a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: HONGDO ADASI
+    answ2: JEJU ADASI
+    answ3: SEONJAEODO ADASI
+    answ4: GEOJEDO ADASI
+    correctansw: JEJU ADASI
+  - questions: "G\xFCney Kore'de estetik ameliyat\u0131n\u0131n en \xE7ok yap\u0131ld\u0131\u011F\u0131
+      b\xF6lge a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: "G\xD6Z KAPA\u011EI"
+    answ2: BURUN
+    answ3: "\xC7ENE"
+    answ4: "KA\u015E KALDIRMA"
+    correctansw: "G\xD6Z KAPA\u011EI"
+  - questions: "Oppa'n\u0131n anlam\u0131 nedir?"
+    answ1: "AB\u0130"
+    answ2: BABA
+    answ3: ANNE
+    answ4: DEDE
+    correctansw: "AB\u0130"
+  - questions: Bias ne demektir?
+    answ1: "B\u0130R GRUPTAK\u0130 EN B\xDCY\xDCK K\u0130\u015E\u0130"
+    answ2: "B\u0130R GRUPTAK\u0130 EN SEVD\u0130\u011E\u0130N K\u0130\u015E\u0130"
+    answ3: "B\u0130R GRUBUN EN K\xDC\xC7\xDCK \xDCYES\u0130"
+    answ4: "B\u0130R GRUBUN H\u0130T OLAN \u015EARKISI"
+    correctansw: "B\u0130R GRUPTAK\u0130 EN SEVD\u0130\u011E\u0130N K\u0130\u015E\u0130"
+  - questions: "G\xFCney Kore'de u\u011Fursuz say\u0131lan rakam a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 3
+    answ2: 4
+    answ3: 9
+    answ4: 13
+    correctansw: 4
+  - questions: "Oppa'n\u0131n anlam\u0131 nedir?"
+    answ1: AMCA
+    answ2: MANTI
+    answ3: TORUN
+    answ4: "SEVG\u0130L\u0130"
+    correctansw: "SEVG\u0130L\u0130"
+  - questions: "G\xFCney Kore'de u\u011Fursuz olarak kabul edilen renk a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: MOR
+    answ2: "S\u0130YAH"
+    answ3: KIRMIZI
+    answ4: TURUNCU
+    correctansw: KIRMIZI
+  - questions: "School dizisi ka\xE7 seriden olu\u015Fur?"
+    answ1: 1
+    answ2: 2
+    answ3: 3
+    answ4: 4
+    correctansw: 3
+  - questions: "BTS'in kurulu\u015F y\u0131l\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 2011
+    answ2: 2012
+    answ3: 2013
+    answ4: 2014
+    correctansw: 2013
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi Super Junior grubunda yer almaz?"
+    answ1: LEETEUK
+    answ2: HANGENG
+    answ3: KANGIN
+    answ4: "K\u0130M JOON"
+    correctansw: "K\u0130M JOON"
+  - questions: "BTS'in ana rapper\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: SUGA
+    answ2: RM
+    answ3: JIN
+    answ4: HOPE
+    correctansw: RM
+  - questions: "Kim Hyun Joong a\u015Fa\u011Fdaki hangi m\xFCzik grubunda yer alm\u0131\u015Ft\u0131r?"
+    answ1: BEAST
+    answ2: SS501
+    answ3: BTS
+    answ4: HIGHLIGHT
+    correctansw: SS501
+  - questions: "A\u015Fa\u011F\u0131daki idollerden hangisi Super M grubundad\u0131r
+      de\u011Fildir?"
+    answ1: TAEMIN
+    answ2: DONGHAE
+    answ3: SUNGMIN
+    answ4: JISUNG
+    correctansw: TAEMIN
+  - questions: "Blackpink'in ana rapper\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: JENNIE
+    answ2: JISOO
+    answ3: ROSE
+    answ4: LISA
+    correctansw: JENNIE
+  - questions: "Dizi, bir \xF6l\xFCm mele\u011Fi (Song Seung-Hun) ile insan bir kad\u0131n\u0131n
+      (Go Ara) gizemli ve romantik hik\xE2yesi anlatmaktad\u0131r.Konusu verilen dizi
+      a\u015Fa\u011F\u0131dakilerden hangisidir?   "
+    answ1: BLACK
+    answ2: MASK
+    answ3: SUSPICIOUS PARTNER
+    answ4: THE LIAR AND HIS LOVER
+    correctansw: BLACK
+  - questions: "Jin-Woo (Yoo Seung-Ho) hipertimestik sendromundan muzdariptir ve babas\u0131n\u0131n
+      (Jeon Kwang-Leol) su\xE7suzlu\u011Funu kan\u0131tlamak i\xE7in bir avukat olmu\u015Ftur.
+      Babas\u0131n\u0131n su\xE7suzlu\u011Funu kan\u0131tlamak i\xE7in m\xFCcadele
+      ederken Alzheimer nedeniyle yava\u015F yava\u015F haf\u0131zas\u0131n\u0131
+      kaybetmeye ba\u015Flar.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: MOON LOVERS
+    answ2: D-DAY
+    answ3: REMEMBER
+    answ4: YONGPAL
+    correctansw: REMEMBER
+  - questions: "Bir do\u011Fal afet Seul \u015Fehrini vurur. B\xFCt\xFCn \u015Fehir
+      fel\xE7 olur. Doktorlar ve acil servis personeli, insanlar\u0131 kurtarmak i\xE7in
+      m\xFCcadele eder.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: I AM NOT A ROBOT
+    answ2: LOVE IS SADNESS
+    answ3: ARE YOU HUMAN TOO
+    answ4: D-DAY
+    correctansw: D-DAY
+  - questions: "Kim Woo-Bin ve Suzy'nin ba\u015Frollerini oynad\u0131\u011F\u0131
+      dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: UNCONTROLLABLY FOND
+    answ2: "EULACHACHA WA\u0130K\u0130K\u0130"
+    answ3: "CH\u0130EF K\u0130M"
+    answ4: WHY SECRETARY KIM
+    correctansw: UNCONTROLLABLY FOND
+  - questions: "'Saranghae' kelimesinin anlam\u0131 nedir?"
+    answ1: "SEN\u0130 SEVM\u0130YORUM"
+    answ2: "SEN\u0130 SEV\u0130YORUM"
+    answ3: "SEN\u0130 SEVECE\u011E\u0130M"
+    answ4: "SEN\u0130 SEVEM\u0130YORUM"
+    correctansw: "SEN\u0130 SEV\u0130YORUM"
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisi de\u011Fildir?"
+    answ1: YOU ARE BEAUTIFUL
+    answ2: WWW
+    answ3: TEEN WOLF
+    answ4: SOMEDAY
+    correctansw: TEEN WOLF
+  - questions: "Sadece k\u0131zlardan olu\u015Fan K-POP grubu a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: BTS
+    answ2: EXO
+    answ3: BLACKPINK
+    answ4: ASTRO
+    correctansw: BLACKPINK
+  - questions: "'Kamsahamnida' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "TE\u015EEKK\xDCR EDER\u0130M"
+    answ2: "\xD6Z\xDCR D\u0130LER\u0130M"
+    answ3: "K\u0130MS\u0130N\u0130Z?"
+    answ4: "SEN M\u0130S\u0130N?"
+    correctansw: "TE\u015EEKK\xDCR EDER\u0130M"
+  - questions: "'Miane' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: BANA BAK
+    answ2: "\xD6Z\xDCR D\u0130LER\u0130M"
+    answ3: 'GEL '
+    answ4: "G\u0130T"
+    correctansw: "\xD6Z\xDCR D\u0130LER\u0130M"
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisidir?"
+    answ1: V WARS
+    answ2: THE 100
+    answ3: SECRET GARDEN
+    answ4: PRISON BREAK
+    correctansw: SECRET GARDEN
+  - questions: "12 b\xF6l\xFCmden olu\u015Fan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: MOON LOVERS
+    answ3: GOBLIN
+    answ4: VOICE 2
+    correctansw: VOICE 2
+  - questions: "'Aniyo' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: EVET
+    answ2: "G\u0130T"
+    answ3: HAYIR
+    answ4: GEL
+    correctansw: HAYIR
+  - questions: "300 y\u0131l \xF6nce veliaht prenses \xF6l\xFC olarak bulunur. Prens
+      bu \xF6l\xFCm\xFCn ard\u0131ndaki s\u0131rr\u0131, toplad\u0131\u011F\u0131
+      \xFC\xE7 yetenekli adamla ara\u015Ft\u0131rmaya \xE7al\u0131\u015F\u0131r. Ancak
+      birden kendilerini 300 y\u0131l sonras\u0131 yani g\xFCn\xFCm\xFCzde bulurlar.Bug\xFCnk\xFC
+      Seoul\u2019da Veliaht Prens, esrarengiz bir bi\xE7imde \xF6len prensese \xE7ok
+      benzeyen Joo Se Na ile tan\u0131\u015F\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 49 DAYS
+    answ2: CRIMINAL MINDS
+    answ3: ROOFTOP PRINCE
+    answ4: D-DAY
+    correctansw: ROOFTOP PRINCE
+  - questions: BTOB grubunun ana lideri kimdir?
+    answ1: ILHOON
+    answ2: "M\u0130NHYUK"
+    answ3: PENIEL
+    answ4: EUNKWANG
+    correctansw: EUNKWANG
+  - questions: "BIGBANG grubunun lideri,rapper\u0131,ana vokali gibi bir \xE7ok pozisyonu
+      bulunan \xFCye a\u015Fa\u011F\u0131dakilerden hangisidir? "
+    answ1: T.O.P
+    answ2: G-DRAGON
+    answ3: TAEYANG
+    answ4: SEUNGRI
+    correctansw: G-DRAGON
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi NU'EST grubunda yer almaz?"
+    answ1: REN
+    answ2: AARON
+    answ3: JISOO
+    answ4: JR
+    correctansw: JISOO
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi BLACKPINK grubunda yer almaz?"
+    answ1: JISOO
+    answ2: JENNIE
+    answ3: ROSE
+    answ4: REN
+    correctansw: REN
+  - questions: "Seulgi, Irene, Wendy ,Joy , Yeri \xFCyelerinin olu\u015Fturdu\u011Fu
+      K-POP grubu a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: BLACKPINK
+    answ2: RED VELVET
+    answ3: "TW\u0130CE"
+    answ4: CNBLUE
+    correctansw: RED VELVET
+  - questions: "Jung YongHwa, Lee JongHyun, Kang MinHyuk ve Lee JungShin \xFCyelerinin
+      olu\u015Fturdu\u011Fu K-POP grubu a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: INFINITE
+    answ2: CNBLUE
+    answ3: GOT7
+    answ4: EXO
+    correctansw: CNBLUE
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi K-POP grubu de\u011Fildir?"
+    answ1: 2NE1
+    answ2: f(x)
+    answ3: SISTAR
+    answ4: CARTEL
+    correctansw: CARTEL
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi K-POP grubudur?"
+    answ1: DORIAN
+    answ2: REDD
+    answ3: KARA
+    answ4: VEGA
+    correctansw: KARA
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi K-POP grubu de\u011Fildir?"
+    answ1: MANGA
+    answ2: A-PINK
+    answ3: VIXX
+    answ4: WANNA ONE
+    correctansw: MANGA
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi K-POP grubudur?"
+    answ1: AC/DC
+    answ2: BLUR
+    answ3: GOT7
+    answ4: COLDPLAY
+    correctansw: GOT7
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisi de\u011Fildir?"
+    answ1: BEST CHICKEN
+    answ2: BIG FOREST
+    answ3: BLACK SUMMER
+    answ4: BEAUTIFUL MAN
+    correctansw: BLACK SUMMER
+  - questions: "'\u0130ronha' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xD6L"
+    answ2: GEZ
+    answ3: UYAN
+    answ4: KAPAT
+    correctansw: UYAN
+  - questions: "Zengin bir aileden gelen 7 ki\u015Filikli bir adam (Ji Sung) ile doktorlu\u011Funun
+      ilk y\u0131l\u0131nda olan bir kad\u0131n\u0131n (Hwang Jung-Eum) aras\u0131ndaki
+      a\u015Fk hikayesini anlatmaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: KILL IT
+    answ2: KILL ME HEAL ME
+    answ3: LAST SCANDAL
+    answ4: MY FIRST LOVE
+    correctansw: KILL ME HEAL ME
+  - questions: "'Balli' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xC7ABUK"
+    answ2: "\u0130LER\u0130"
+    answ3: ANLADIM
+    answ4: "K\u0130M"
+    correctansw: "\xC7ABUK"
+  - questions: Korece 1-2-3 ne demektir?
+    answ1: SET-TUL-HANA
+    answ2: TUL-HANA-SET
+    answ3: HANA-TUL-SET
+    answ4: HANA-SET-TUL
+    correctansw: HANA-TUL-SET
+  - questions: "'Eomeoni' kelimesinin anlam\u0131 nedir?"
+    answ1: ANNE
+    answ2: BABA
+    answ3: DEDE
+    answ4: TEYZE
+    correctansw: ANNE
+  - questions: "'Haraboci' kelimesinin anlam\u0131 nedir?"
+    answ1: "B\xDCY\xDCK ANNE"
+    answ2: "B\xDCY\xDCK BABA"
+    answ3: TEYZE
+    answ4: AMCA
+    correctansw: "B\xDCY\xDCK BABA"
+  - questions: "\u0130nsan bir anneden (Lee Yeon-Hee) ve mitolojik yarat\u0131k bir
+      babadan (Choi Jin-Hyuk) d\xFCnyaya gelen Choi Kang-Chi'nin (Lee Seung-Gi) insan
+      olabilmek ve sevdiklerini koruyabilmek i\xE7in verdi\u011Fi m\xFCcadele anlat\u0131lmaktad\u0131r.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: OH MY GOST
+    answ2: GU FAMILY BOOK
+    answ3: SECRET OF BIRTH
+    answ4: PANDA AND HEDGEHOG
+    correctansw: GU FAMILY BOOK
+  - questions: "Le Min Ho'nun Jin-ho ad\u0131ndaki karakteri oynad\u0131\u011F\u0131
+      ve gay san\u0131ld\u0131\u011F\u0131 dizia\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: A MAN'S STORY
+    answ2: "PERFECT W\u0130FE"
+    answ3: PERSONAL TASTE
+    answ4: SOUL
+    correctansw: PERSONAL TASTE
+  - questions: "izi, gizemli bir u\xE7ak kazas\u0131 soru\u015Fturmas\u0131na kar\u0131\u015Fan
+      ve daha sonra \xFClkede yap\u0131lan yolsuzluklar hakk\u0131nda bilgi toplamaya
+      ba\u015Flayan s\u0131radan bir adam\u0131n (Lee Seung-Gi) etraf\u0131nda d\xF6nmektedir.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: SIRIUS
+    answ2: VAGABOND
+    answ3: WANTED
+    answ4: SOULMATE
+    correctansw: VAGABOND
+  - questions: "Dizi, uyurgezer bir hallyu y\u0131ld\u0131z\u0131 (Jun) ve onu gizlice
+      tedavi etmeye \xE7al\u0131\u015Fan bir doktorun aras\u0131nda a\u015Fk hik\xE2yesini
+      konu almaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: DOCTOR STRANGER
+    answ2: IDOL'S DOCTOR
+    answ3: GOOD DOCTOR
+    answ4: DOCTOR JOHN
+    correctansw: IDOL'S DOCTOR
+  - questions: "Dizi, dubl\xF6r olan Gil Ra-Im (Ha Ji-Won) ile \xFCst d\xFCzey bir
+      al\u0131\u015Fveri\u015F merkezi CEO'su Kim Joo-Won (Hyun Bin) ruhlar\u0131n\u0131n
+      yer de\u011Fi\u015Ftirmesiyle olu\u015Fan fantastik bir hik\xE2yeyi anlatmaktad\u0131r.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: SECRET DOOR
+    answ2: SECRET LOVE
+    answ3: SECRET GARDEN
+    answ4: SECRET FOREST
+    correctansw: SECRET GARDEN
+  - questions: "F4 ad\u0131ndaki grubun bulundu\u011Fu ve okulda ge\xE7en dizi a\u015Fa\u011F\u0131daklerden
+      hangisidir?"
+    answ1: THE HEIRS
+    answ2: BOYS OVER FLOWERS
+    answ3: YOU ARE BEAUTIFUL
+    answ4: SCHOOL 2017
+    correctansw: BOYS OVER FLOWERS
+  - questions: "'Babo' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: AKILLI
+    answ2: APTAL
+    answ3: "\xC7\u0130RK\u0130N"
+    answ4: "\u015E\u0130R\u0130N"
+    correctansw: APTAL
+  - questions: "A\u015Fa\u011F\u0131daki K-POP gruplar\u0131ndan hangisi daha kalabal\u0131kt\u0131r?"
+    answ1: KARA
+    answ2: 2NE1
+    answ3: SISTAR
+    answ4: F(X)
+    correctansw: F(X)
+  - questions: "2009'da Fire \u015Fark\u0131s\u0131 ile \xE7\u0131k\u0131\u015F yapan
+      ve k\u0131zlardan olu\u015Fan K-POP grubu a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: 4MINUTE
+    answ2: KARA
+    answ3: 2NE1
+    answ4: BLACKPINK
+    correctansw: 2NE1
+  - questions: "'Yoboseyo' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: EVET
+    answ2: HAYIR
+    answ3: ALO
+    answ4: "BEN\u0130M"
+    correctansw: ALO
+  - questions: "'Annyeonghaseyo' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: TAMAM
+    answ2: MERHABA
+    answ3: GEZ
+    answ4: "K\u0130M\u0130N"
+    correctansw: MERHABA
+  - questions: "Zoraki evlili\u011Fi konu alan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: MASK
+    answ2: "M\u0130STY"
+    answ3: SOLOMONS PERJURY
+    answ4: BUBBLEGUM
+    correctansw: MASK
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi Netflix yap\u0131m\u0131d\u0131r?"
+    answ1: HOTEL DEL LUNA
+    answ2: VAGABOND
+    answ3: TRAP
+    answ4: GOBLIN
+    correctansw: VAGABOND
+  - questions: "Dizi, fiziksel olarak g\xFC\xE7l\xFC bir kad\u0131n olan Do Bong-Soon
+      (Park Bo-Young) ile bir CEO olan An Min-Hyuk (Park Hyung-Sik) aras\u0131ndaki
+      a\u015Fk\u0131 anlatmaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "M\u0130STRESS"
+    answ2: GOOD DOCTOR
+    answ3: MOON LOVERS
+    answ4: STRONG WOMAN DO BONG SOON
+    correctansw: STRONG WOMAN DO BONG SOON
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisinde \xE7irkinken estetik
+      ameliyat yapt\u0131rarak g\xFCzelle\u015Fen ve 'Gangnam G\xFCzeli' diye lakap
+      tak\u0131lan bir k\u0131z\u0131 ve onun i\xE7 g\xFCzelli\u011Fine a\u015F\u0131k
+      olan \xE7ocuk anlat\u0131l\u0131yor?"
+    answ1: BLOOD
+    answ2: K2
+    answ3: MY ID IS GANGNAM BEAUTY
+    answ4: STILL 17
+    correctansw: MY ID IS GANGNAM BEAUTY
+  - questions: "Do Min-Joon (Kim Soo-Hyun) 400 y\u0131l \xF6nce Joseon Hanedanl\u0131\u011F\u0131
+      d\xF6neminde d\xFCnyaya gelen bir uzayl\u0131d\u0131r. Yak\u0131\u015F\u0131kl\u0131
+      olmas\u0131n\u0131n yan\u0131nda ola\u011Fan\xFCst\xFC yeteneklere sahiptir.
+      400 y\u0131l sonra, Do Min-Joon insanlara alayc\u0131 bir \u015Fekilde yakla\u015Fmas\u0131na
+      ra\u011Fmen bir oyuncu olan Chun Song-Yi'ye (Jun Ji-Hyun) a\u015F\u0131k olacakt\u0131r.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: SHE WAS PRETTY
+    answ2: THE LEGEND OF THE BLUE SEA
+    answ3: MY LOVE FROM THE STARS
+    answ4: MY GIRLFRIEND IS A GUMIHO
+    correctansw: MY LOVE FROM THE STARS
+  - questions: "'Descendants of the sun' dizisindeki kurgusal yerin ad\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: URUK
+    answ2: URAL
+    answ3: URET
+    answ4: URAN
+    correctansw: URUK
+  - questions: "'Boys over flowers' dizisindeki F4'grubunun okudu\u011Fu okulun ad\u0131?"
+    answ1: WOOSEONG
+    answ2: SHINHWA
+    answ3: JAEGUK
+    answ4: SEGANG
+    correctansw: SHINHWA
+  - questions: "Webtoon uyarlamas\u0131 dizi a\u015Fa\u011F\u0131dakilerden hangisi
+      de\u011Fildir?"
+    answ1: FLOWER BOY NEXT DOOR
+    answ2: "M\u0130SAENG"
+    answ3: SCHOLAR WHO WALKS THE NIGHT
+    answ4: W
+    correctansw: W
+  - questions: "Dizi, yirmili ya\u015Flardaki iki gencin hayatlar\u0131n\u0131 tamamen
+      de\u011Fi\u015Ftirece\u011Fini bilmedi\u011Fi bir a\u015Fk oyununa at\u0131lmas\u0131n\u0131
+      konu almaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: MAD DOG
+    answ2: THE GREAD SEDUCER
+    answ3: GOBLIN
+    answ4: CHEESE IN THE TRAP
+    correctansw: THE GREAD SEDUCER
+  - questions: "Bir haber spikerinin seri katil oldu\u011Fu dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 'ITEM '
+    answ2: BAD GUYS
+    answ3: TRAP
+    answ4: VOICE
+    correctansw: TRAP
+  - questions: "'Gwenchanha' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: 'NE '
+    answ2: ANLAMIYORUM
+    answ3: "Y\xDCR\xDC"
+    answ4: "SORUN DE\u011E\u0130L"
+    correctansw: "SORUN DE\u011E\u0130L"
+  - questions: "Olaylar diziye ad\u0131n\u0131 veren l\xFCks bir apartmanda ya\u015Fayan
+      d\xF6rt kad\u0131n etraf\u0131nda d\xF6nmektedir. Onlar, e\u015Flerinin daha
+      ba\u015Far\u0131l\u0131 olmas\u0131n\u0131 sa\u011Flamaya \xE7al\u0131\u015F\u0131rken,
+      k\u0131zlar\u0131n\u0131 ve o\u011Fullar\u0131n\u0131 birer prenses ve prens
+      gibi yeti\u015Ftirir."
+    answ1: FAMILIAR WIFE
+    answ2: SKY CASTLE
+    answ3: "FALS\u0130FY"
+    answ4: SKETCH
+    correctansw: SKY CASTLE
+  - questions: "'Yeppeo' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: "\xC7\u0130RK\u0130N"
+    answ2: "G\xDCZEL"
+    answ3: "ARKADA\u015E CANLISI"
+    answ4: DOST
+    correctansw: "G\xDCZEL"
+  - questions: "School 2013 dizisinin ba\u015Frollerinde a\u015Fa\u011F\u0131daki
+      hangi ikili oynam\u0131\u015Ft\u0131r?"
+    answ1: LEE MIN HOO-LE JONG SUK
+    answ2: "LE JONG SUK-K\u0130M WOO B\u0130N"
+    answ3: "K\u0130M WOO B\u0130N-WOO DO HWAN"
+    answ4: LEE JONG SUK-TAECHYON
+    correctansw: "LE JONG SUK-K\u0130M WOO B\u0130N"
+  - questions: "Dizi, ki\u015Finin d\xFCnya ile aras\u0131ndaki alg\u0131lar\u0131n\u0131
+      bozabilen bir art\u0131r\u0131lm\u0131\u015F ger\xE7eklik oyununun geli\u015Ftiricisini
+      bulmak i\xE7in \u0130spanya\u2019n\u0131n Granada \u015Fehrine giden bir yat\u0131r\u0131m
+      \u015Firketinin CEO\u2019sunun (Hyun Bin) etraf\u0131nda d\xF6nmektedir. Burada,
+      pansiyon i\u015Fleten bir kad\u0131nla (Park Shin-Hye) kar\u015F\u0131la\u015F\u0131r.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakileren hangisidir?"
+    answ1: MELTING ME SOFTLY
+    answ2: MEMORY
+    answ3: MEMORIES OF THE ALHAMBRA
+    answ4: MIRROR OF THE WITCH
+    correctansw: MEMORIES OF THE ALHAMBRA
+  - questions: "Tek sezondan olu\u015Fan dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: MOON LOVERS
+    answ2: KINGDOM
+    answ3: SAVE ME
+    answ4: "EULACHACHA WA\u0130K\u0130K\u0130"
+    correctansw: MOON LOVERS
+  - questions: "Hukuk ve medikal temal\u0131  dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: WHISPER
+    answ2: PARTNER FOR JUSTICE
+    answ3: LAWLESS LAWYER
+    answ4: ARGON
+    correctansw: PARTNER FOR JUSTICE
+  - questions: "'Aboci' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: 'ANNE '
+    answ2: BABA
+    answ3: AMCA
+    answ4: "YE\u011EEN"
+    correctansw: BABA
+  - questions: "Dizi, Antik \xC7a\u011F d\xF6neminde, Arthdal adl\u0131 kurgusal bir
+      diyarda ge\xE7mektedir. Bir g\xFCn, kaderinde Arthdal\u2019\u0131n sonunu getirmek
+      olan bir \xE7ocuk (Song Joong-Ki) d\xFCnyaya gelir.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: JOSEON SURVIVAL
+    answ2: KINGDOM
+    answ3: ARTHDAL CHRONICLES
+    answ4: MAMA FAIRY AND THE WOODCUTTER
+    correctansw: ARTHDAL CHRONICLES
+  - questions: "Web drama, bir k\u0131z\u0131n (Kim Sae-Ron) yard\u0131m\u0131 ile
+      zamanda geri giden ve ilk \xE7\u0131k\u0131\u015F\u0131n\u0131 yapt\u0131klar\u0131
+      g\xFCn\xFCn bir \xF6ncesine d\xF6nen bir erkek grubunun etraf\u0131nda d\xF6nmektedir.Konusu
+      verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: A KOREAN ODYSSEY
+    answ2: TWO COPS
+    answ3: TO BE CONTINUED
+    answ4: MY FIRST LOVE
+    correctansw: TO BE CONTINUED
+  - questions: "Dizi, cinsiyet ayr\u0131mc\u0131l\u0131\u011F\u0131 ile m\xFCcadele
+      ederek ba\u015Far\u0131l\u0131 bir i\u015F hayat\u0131na sahip olmaya \xE7al\u0131\u015Fan
+      ve bu y\xFCzden bir e\u015F veya bir anne olmaktan vazge\xE7en kad\u0131nlara
+      odaklanmaktad\u0131r.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: PARFUME
+    answ2: THE GOLDEN GARDEN
+    answ3: SEARCH WWW
+    answ4: BE  MELODRAMATIC
+    correctansw: SEARCH WWW
+  - questions: "'Ajumma' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: YENGE
+    answ2: TEYZE
+    answ3: "YE\u011EEN"
+    answ4: KUZEN
+    correctansw: TEYZE
+  - questions: "G\xFCn\xFCm\xFCzde, Jae-Min (Yeo Jin-Goo) pop\xFCler bir lise \xF6\u011Frencisidir.
+      Okuluna transfer ile gelen Baek Ma-Ri (Seol Hyun) ad\u0131ndaki bir \xF6\u011Frenciye
+      a\u015F\u0131k olur. Baek Ma-Ri ise bir vampirdir ve bu ger\xE7e\u011Fi Jae-Min'den
+      gizler.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: SUMMER LOVE
+    answ2: ORANGE MARMALADE
+    answ3: BLOOD
+    answ4: HEART TO HEART
+    correctansw: ORANGE MARMALADE
+  - questions: "Kim Moon-Ho (Yoo Ji-Tae) b\xFCy\xFCk bir yay\u0131n \u015Firketinde
+      pop\xFCler bir muhabirdir. Bir g\xFCn ge\xE7mi\u015Fte ya\u015Fanan bir davan\u0131n
+      ger\xE7ek y\xFCz\xFCn\xFC \xF6\u011Frenir. Bilerek dava ile alakal\u0131 insanlara
+      yakla\u015F\u0131r ve onlara yard\u0131mc\u0131 olur. Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: VOICE
+    answ2: MASK
+    answ3: HEALER
+    answ4: MISAENG
+    correctansw: HEALER
+  - questions: "Kang Tae-Joon (Minho), y\xFCksek atlamada alt\u0131n madalya kazanan
+      bir atlettir ancak ge\xE7irdi\u011Fi bir kaza sonucunda yaralanmas\u0131 onu
+      bir \xE7\xF6k\xFC\u015Fe s\xFCr\xFCklemi\u015Ftir. Onu idol\xFC olarak g\xF6ren
+      Koo Jae-Hee (Sulli) ad\u0131ndaki bir k\u0131z ona yard\u0131mc\u0131 olmak
+      amac\u0131yla erkek k\u0131l\u0131\u011F\u0131na girerek Tae-Joon'un gitti\u011Fi
+      erkek lisesine kaydolur.Konusu verilen dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: CLASS OF LIES
+    answ2: FARMING ACADEMY
+    answ3: MASTER OF STUDY
+    answ4: TO THE BEAUTIFUL YOU
+    correctansw: TO THE BEAUTIFUL YOU
+  - questions: "'Bogoshipda' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "SEN\u0130 SEV\u0130YORUM"
+    answ2: "SEN\u0130 \xD6ZLED\u0130M"
+    answ3: "SEN\u0130 \u0130ST\u0130YORUM"
+    answ4: "SEN\u0130 S\u0130L\u0130YORUM"
+    correctansw: "SEN\u0130 \xD6ZLED\u0130M"
+  - questions: "'Senil \xE7ughahamnida' kelimesinin anlam\u0131 a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: "\u0130Y\u0130K\u0130 VARSIN"
+    answ2: "\xC7OK G\xDCZEL"
+    answ3: MUTLU NOELLER
+    answ4: "DO\u011EUM G\xDCN\xDCN KUTLU OLSUN"
+    correctansw: "DO\u011EUM G\xDCN\xDCN KUTLU OLSUN"
+  soruText: {fileID: 114442647347826874}
+  answ:
+  - {fileID: 1728407910391260}
+  - {fileID: 1780284783632478}
+  - {fileID: 1974860845645522}
+  - {fileID: 1521569633950164}
+  m_questioncontroller: {fileID: 0}
+  isMulti: 0
+--- !u!114 &114578385763668268
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114595934988686720
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114615845753055174
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114617980102677332
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.4198113, g: 1, b: 0.4625362, a: 0.85882354}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114636253851156332
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 74
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\u015EIKLI SORU"
+--- !u!114 &114670822560372756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0.3915094, b: 0.3915094, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114738324932027180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 56314d2afa5482042ba000347e73626f, type: 3}
+    m_FontSize: 41
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 41
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Hay\u0131r"
+--- !u!114 &114756853600891134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114101864669886630}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114783216224315598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114827085644169550
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.74509805, g: 0.74509805, b: 0.74509805, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114839303263232232
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114924594211543428}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114873695287820846
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114546375792673624}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114890395441672862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 59007a45ede29434c818400fa62d859d, type: 3}
+    m_FontSize: 91
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 91
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Soruyu Atla
+--- !u!114 &114894122608353082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &114924594211543428
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114936236932049758
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1c3faaa58960c20429bbb34c5f73fa01, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114950654482457376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: f063e8d52d4d27a41b016874643450e0, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114973184132683204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: A
+--- !u!222 &222052198573367788
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_CullTransparentMesh: 0
+--- !u!222 &222147776568775628
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_CullTransparentMesh: 0
+--- !u!222 &222177145823165354
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_CullTransparentMesh: 0
+--- !u!222 &222180907428887340
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_CullTransparentMesh: 0
+--- !u!222 &222221967342958042
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_CullTransparentMesh: 0
+--- !u!222 &222344651601643088
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_CullTransparentMesh: 0
+--- !u!222 &222345733074881380
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_CullTransparentMesh: 0
+--- !u!222 &222353513852942518
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_CullTransparentMesh: 0
+--- !u!222 &222393152293725634
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_CullTransparentMesh: 0
+--- !u!222 &222410961142232494
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_CullTransparentMesh: 0
+--- !u!222 &222470841505427022
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_CullTransparentMesh: 0
+--- !u!222 &222489637456616502
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_CullTransparentMesh: 0
+--- !u!222 &222513558604817998
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_CullTransparentMesh: 0
+--- !u!222 &222528864616374266
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_CullTransparentMesh: 0
+--- !u!222 &222583135477060098
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_CullTransparentMesh: 0
+--- !u!222 &222600020052375128
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_CullTransparentMesh: 0
+--- !u!222 &222614492575151828
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_CullTransparentMesh: 0
+--- !u!222 &222616242898074494
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_CullTransparentMesh: 0
+--- !u!222 &222677268787287132
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_CullTransparentMesh: 0
+--- !u!222 &222706754371195920
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_CullTransparentMesh: 0
+--- !u!222 &222780060612575666
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_CullTransparentMesh: 0
+--- !u!222 &222785089432799884
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_CullTransparentMesh: 0
+--- !u!222 &222824045342302066
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_CullTransparentMesh: 0
+--- !u!222 &222842116888295100
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_CullTransparentMesh: 0
+--- !u!222 &222861536852464758
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_CullTransparentMesh: 0
+--- !u!222 &222906995970652820
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_CullTransparentMesh: 0
+--- !u!222 &222920007776543282
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_CullTransparentMesh: 0
+--- !u!222 &222942577332182786
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_CullTransparentMesh: 0
+--- !u!222 &222988292217579496
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_CullTransparentMesh: 0
+--- !u!222 &222998211396672930
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_CullTransparentMesh: 0
+--- !u!223 &223042259255293412
+Canvas:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 1
+  m_TargetDisplay: 0
+--- !u!223 &223986572101954772
+Canvas:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &224138444105568396
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 188.04999}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224162209243053848
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.000015258789, y: 22.004997}
+  m_SizeDelta: {x: -44.01, y: -44.01}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224175835930689212
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.000026703, y: 67}
+  m_SizeDelta: {x: 491.9, y: 150.4}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224189285833943978
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224593850831757978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: 2.2}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224208578683535890
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.35586, y: 0.35586, z: 0.35586}
+  m_Children: []
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.0000038146973, y: -20.6}
+  m_SizeDelta: {x: 283.9, y: 97.3}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224244026345235002
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224755867141958340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: -0.6}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224253995561388274
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224446392464262204}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224285301857153088
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224768906830236432}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224311701437556326
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224414055843995508}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -2.100006, y: 108.20001}
+  m_SizeDelta: {x: -516.1, y: -296.6}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224329743156695234
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1600156247231276}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224998267269841754}
+  - {fileID: 224478235255584062}
+  - {fileID: 224138444105568396}
+  - {fileID: 224668294749508198}
+  - {fileID: 224768906830236432}
+  - {fileID: 224755867141958340}
+  - {fileID: 224593850831757978}
+  - {fileID: 224780806592182172}
+  m_Father: {fileID: 224425331370903760}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -428.8}
+  m_SizeDelta: {x: 0, y: -858.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224367787805110420
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224780806592182172}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224407873134639662
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224434578881826052}
+  - {fileID: 224446392464262204}
+  - {fileID: 224175835930689212}
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -196.52, y: -253.6}
+  m_SizeDelta: {x: 393, y: 195.1}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224414055843995508
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224311701437556326}
+  - {fileID: 224951710299877364}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -0.000013113, y: -375}
+  m_SizeDelta: {x: 740.6, y: 390.8}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224421645682080354
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224768906830236432}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: -3.4}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224425331370903760
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 224632164664651336}
+  - {fileID: 224329743156695234}
+  m_Father: {fileID: 4551138420701816}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!224 &224434578881826052
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224508788761306794}
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 115.47, y: 75.000015}
+  m_SizeDelta: {x: 283.65, y: 128.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224446392464262204
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+  m_Children:
+  - {fileID: 224253995561388274}
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -142, y: 75}
+  m_SizeDelta: {x: 231.3, y: 89.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224467490119015952
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224844474550064140}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -0.000012875, y: -89.6001}
+  m_SizeDelta: {x: 450, y: 180}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224478235255584062
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 289.00003}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224508788761306794
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224434578881826052}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224576970768948580
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224780806592182172}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: 4.9}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224593850831757978
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224189285833943978}
+  - {fileID: 224674464741909770}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 188.04999}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224632164664651336
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1343203284683906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224467490119015952}
+  - {fileID: 224414055843995508}
+  - {fileID: 224963608693407520}
+  m_Father: {fileID: 224425331370903760}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -141.14001}
+  m_SizeDelta: {x: 0, y: -283.19995}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224668294749508198
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 87.54999}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224674464741909770
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224593850831757978}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224755867141958340
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224244026345235002}
+  - {fileID: 224894402258700692}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 290.25003}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224768906830236432
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224421645682080354}
+  - {fileID: 224285301857153088}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 390.75}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224780806592182172
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224576970768948580}
+  - {fileID: 224367787805110420}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 88.79999}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224844474550064140
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224467490119015952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.024993896, y: 0.000091552734}
+  m_SizeDelta: {x: -24.700012, y: -36.199997}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224894402258700692
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224755867141958340}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224951710299877364
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224414055843995508}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -2.100006, y: -42.69998}
+  m_SizeDelta: {x: -123.5, y: -181.7}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224963608693407520
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224162209243053848}
+  - {fileID: 224208578683535890}
+  - {fileID: 224407873134639662}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -95.99994, y: -85.26004}
+  m_SizeDelta: {x: 150, y: 150}
+  m_Pivot: {x: 0.50000006, y: 0.5}
+--- !u!224 &224998267269841754
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000003, y: 389.50003}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}

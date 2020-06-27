@@ -1,0 +1,3631 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1445231825003872}
+  m_IsPrefabAsset: 1
+--- !u!1 &1006670449325182
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224244026345235002}
+  - component: {fileID: 222616242898074494}
+  - component: {fileID: 114214058825551578}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1036762737531132
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224446392464262204}
+  - component: {fileID: 222393152293725634}
+  - component: {fileID: 114670822560372756}
+  - component: {fileID: 114059523065693070}
+  m_Layer: 0
+  m_Name: Button (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1075587218758530
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224894402258700692}
+  - component: {fileID: 222221967342958042}
+  - component: {fileID: 114313180484474884}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1142015046899492
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224674464741909770}
+  - component: {fileID: 222344651601643088}
+  - component: {fileID: 114556055899393032}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1186178873273878
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224311701437556326}
+  - component: {fileID: 222180907428887340}
+  - component: {fileID: 114392296776151486}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1220670798582712
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224421645682080354}
+  - component: {fileID: 222489637456616502}
+  - component: {fileID: 114000501876778208}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1274219286122414
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224189285833943978}
+  - component: {fileID: 222353513852942518}
+  - component: {fileID: 114236587520988380}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1302838369675084
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224951710299877364}
+  - component: {fileID: 222842116888295100}
+  - component: {fileID: 114442647347826874}
+  m_Layer: 0
+  m_Name: soru_text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1309120345332990
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224844474550064140}
+  - component: {fileID: 222147776568775628}
+  - component: {fileID: 114636253851156332}
+  m_Layer: 0
+  m_Name: Text (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1343203284683906
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224632164664651336}
+  m_Layer: 0
+  m_Name: ddasasdsda
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1368684422496840
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224253995561388274}
+  - component: {fileID: 222942577332182786}
+  - component: {fileID: 114738324932027180}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1392414721680324
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224407873134639662}
+  - component: {fileID: 223986572101954772}
+  - component: {fileID: 114421589000229124}
+  - component: {fileID: 114151350156442678}
+  - component: {fileID: 222706754371195920}
+  - component: {fileID: 114827085644169550}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1410385298115608
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224478235255584062}
+  - component: {fileID: 222824045342302066}
+  - component: {fileID: 114783216224315598}
+  m_Layer: 0
+  m_Name: Panel (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1445231825003872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4551138420701816}
+  - component: {fileID: 114576570501066236}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: soru
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1470403479273734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224425331370903760}
+  - component: {fileID: 223042259255293412}
+  - component: {fileID: 114440491080263080}
+  - component: {fileID: 114894122608353082}
+  m_Layer: 0
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1478961442952700
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224467490119015952}
+  - component: {fileID: 222614492575151828}
+  - component: {fileID: 114617980102677332}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1505768038411896
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224508788761306794}
+  - component: {fileID: 222861536852464758}
+  - component: {fileID: 114353071047514614}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1521569633950164
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224780806592182172}
+  - component: {fileID: 222470841505427022}
+  - component: {fileID: 114546375792673624}
+  - component: {fileID: 114873695287820846}
+  m_Layer: 0
+  m_Name: D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1572551366033224
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224434578881826052}
+  - component: {fileID: 222780060612575666}
+  - component: {fileID: 114147611846836844}
+  - component: {fileID: 114511413133920570}
+  m_Layer: 0
+  m_Name: Button
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1600156247231276
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224329743156695234}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1637300736533168
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224963608693407520}
+  - component: {fileID: 222052198573367788}
+  - component: {fileID: 114950654482457376}
+  - component: {fileID: 114141463828361318}
+  m_Layer: 0
+  m_Name: SoruyuGec
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1643923053165246
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224162209243053848}
+  - component: {fileID: 222998211396672930}
+  - component: {fileID: 114936236932049758}
+  m_Layer: 0
+  m_Name: Image
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1658652414502476
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224208578683535890}
+  - component: {fileID: 222677268787287132}
+  - component: {fileID: 114890395441672862}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1692140774936100
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224138444105568396}
+  - component: {fileID: 222345733074881380}
+  - component: {fileID: 114110068540972538}
+  m_Layer: 0
+  m_Name: Panel (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1728407910391260
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224768906830236432}
+  - component: {fileID: 222906995970652820}
+  - component: {fileID: 114551376962063208}
+  - component: {fileID: 114540754580915458}
+  m_Layer: 0
+  m_Name: A
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1733990316870512
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224668294749508198}
+  - component: {fileID: 222785089432799884}
+  - component: {fileID: 114595934988686720}
+  m_Layer: 0
+  m_Name: Panel (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1780284783632478
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224755867141958340}
+  - component: {fileID: 222920007776543282}
+  - component: {fileID: 114101864669886630}
+  - component: {fileID: 114756853600891134}
+  m_Layer: 0
+  m_Name: B
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1868829310485744
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224367787805110420}
+  - component: {fileID: 222583135477060098}
+  - component: {fileID: 114135684102418754}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1879428348060190
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224285301857153088}
+  - component: {fileID: 222177145823165354}
+  - component: {fileID: 114973184132683204}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1920306344839754
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224414055843995508}
+  - component: {fileID: 222988292217579496}
+  - component: {fileID: 114578385763668268}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1935645404696478
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224998267269841754}
+  - component: {fileID: 222513558604817998}
+  - component: {fileID: 114615845753055174}
+  m_Layer: 0
+  m_Name: Panel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1962627004269192
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224175835930689212}
+  - component: {fileID: 222528864616374266}
+  - component: {fileID: 114056839723912376}
+  m_Layer: 0
+  m_Name: Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1974860845645522
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224593850831757978}
+  - component: {fileID: 222410961142232494}
+  - component: {fileID: 114924594211543428}
+  - component: {fileID: 114839303263232232}
+  m_Layer: 0
+  m_Name: C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1997040812856238
+GameObject:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 224576970768948580}
+  - component: {fileID: 222600020052375128}
+  - component: {fileID: 114506081521191434}
+  m_Layer: 0
+  m_Name: Text (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4551138420701816
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1445231825003872}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 654.14923, y: -103.81433, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224425331370903760}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000501876778208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114056839723912376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 59
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 59
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "1500 KP kar\u015F\u0131l\u0131\u011F\u0131nda soru ge\xE7ilsin mi?"
+--- !u!114 &114059523065693070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114670822560372756}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1392414721680324}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114101864669886630
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114110068540972538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114135684102418754
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: D
+--- !u!114 &114141463828361318
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 1, g: 1, b: 1, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114950654482457376}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1392414721680324}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114147611846836844
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.30235848, g: 1, b: 0.2783019, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114151350156442678
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &114214058825551578
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114236587520988380
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114313180484474884
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: B
+--- !u!114 &114353071047514614
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 56314d2afa5482042ba000347e73626f, type: 3}
+    m_FontSize: 64
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 64
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: EVET
+--- !u!114 &114392296776151486
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.2830189, g: 0.2830189, b: 0.2830189, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 63
+    m_FontStyle: 2
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 63
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: SORU
+--- !u!114 &114421589000229124
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &114440491080263080
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 1280}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+--- !u!114 &114442647347826874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: bf9046da7825f394aab671220d1057a2, type: 3}
+    m_FontSize: 94
+    m_FontStyle: 2
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 94
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\"Derste uyuyorum zaten ders ba\u015Flar ba\u015Flamaz bilincimi kaybediyorum.\"repli\u011Fi
+    hangi diziye aittir?"
+--- !u!114 &114506081521191434
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 9c572a8dc82129f4da0268adb2846552, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: 25
+--- !u!114 &114511413133920570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114147611846836844}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: sorugec
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114540754580915458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114551376962063208}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114546375792673624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114551376962063208
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114556055899393032
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: C
+--- !u!114 &114576570501066236
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1445231825003872}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ecccec89fe328b498e5ea53359542ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scenecontroller: {fileID: 0}
+  question:
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisi de\u011Fildir?"
+    answ1: GOBLIN
+    answ2: MOTHER
+    answ3: BODYGUARD
+    answ4: MISTRESS
+    correctansw: BODYGUARD
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi kore dizisidir?"
+    answ1: CHERNOBLY
+    answ2: PASTA
+    answ3: THE 100
+    answ4: MIST
+    correctansw: PASTA
+  - questions: "\"-Kime benziyorum? -Kocama.\" repli\u011Fi hangi diziye aittir?"
+    answ1: MISTY
+    answ2: GOBLIN
+    answ3: MOON LOVERS
+    answ4: W
+    correctansw: W
+  - questions: "\"Derste uyuyorum zaten ders ba\u015Flar ba\u015Flamaz bilincimi kaybediyorum.\"repli\u011Fi
+      hangi diziye aittir?"
+    answ1: "THE L\u0130AR AND H\u0130S LOVER"
+    answ2: STRONG WOMAN DO BONG SOON
+    answ3: "WEIGHTLIFTING FA\u0130RY K\u0130M BOK JOO"
+    answ4: CIRCLE
+    correctansw: "THE L\u0130AR AND H\u0130S LOVER"
+  - questions: "\"So\u011Fuk ald\u0131\u011F\u0131nda incecik giyinme s\u0131k\u0131
+      s\u0131k\u0131 giyinsende g\xFCzelsin.\"repli\u011Fi hangi diziye aittir?"
+    answ1: THE LEGEND OF THE BLUE SEA
+    answ2: MAN FROM THE STARS
+    answ3: WHILE YOU WERE SLEEPING
+    answ4: GOOD DOCTOR
+    correctansw: MAN FROM THE STARS
+  - questions: "\"Benim i\xE7in de seni g\xF6rmek g\xFCzeldi bay Kim Woo Bin.\"repli\u011Fi
+      hangi diziye aittir."
+    answ1: GOBLIN
+    answ2: UNCONTROLLABLY FOND
+    answ3: THE HEIRS
+    answ4: DOCTOR STRANGER
+    correctansw: GOBLIN
+  - questions: "\"Bir Goblin olan Kim Shin sevdi\u011Fi bir\xE7ok insan\u0131n \xF6l\xFCm\xFCn\xFC
+      g\xF6rm\xFC\u015Ft\xFCr ve \xF6l\xFCms\xFCz hayat\u0131n\u0131 sonland\u0131rmak
+      istemektedir.Bunun i\xE7in de insan Goblin bir geline ihtiyac\u0131 vard\u0131r
+      ve y\xFCzy\u0131llard\u0131r bir Goblin gelini aramaktad\u0131r.\"Konusu verilen
+      dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: MISTY
+    answ2: GOBLIN
+    answ3: MASK
+    answ4: GOOD MANAGER
+    correctansw: GOBLIN
+  - questions: "\"Dizi , g\xFCne\u015F tutulmas\u0131 s\u0131ras\u0131nda Goryeo Hanedanl\u0131\u011F\u0131
+      zaman\u0131na geri giden ve orada di\u011Fer insanlar\u0131n korkudan \xF6n\xFCnde
+      titredi\u011Fi Wang So'ya a\u015F\u0131k olan bir k\u0131z\u0131n \xF6yk\xFCs\xFCn\xFC
+      anlatmaktad\u0131r.\"konusu verilen dizi hangisidir?"
+    answ1: MOON EMBRACING SUN
+    answ2: RULER MASTER OF THE MASK
+    answ3: 49 DAYS
+    answ4: MOON LOVERS
+    correctansw: MOON LOVERS
+  - questions: "\"Dizi 30'lu ya\u015Flar\u0131n\u0131n ba\u015F\u0131ndaki, Seul'de
+      ya\u015Fayan birbirine paralel olan farkl\u0131 iki boyutlarda ya\u015Fayan
+      bir erkek ve bir kad\u0131n\u0131n a\u015Fk hikayesini anlatmaktad\u0131r.\"konusu
+      verilen dizinin ba\u015Frol\xFCnde oynayan Han Hyo-Joo hangi karakteri canland\u0131rmaktad\u0131r? "
+    answ1: YOON SO HEE
+    answ2: "K\u0130M M\u0130N JAE"
+    answ3: OH YEON JOO
+    answ4: "HWA YOUNG SH\u0130"
+    correctansw: OH YEON JOO
+  - questions: Eun Tak karakteri hangi diziye aittir?
+    answ1: "CHEESE \u0130N THE TRAP"
+    answ2: REVENGE
+    answ3: GOBLIN
+    answ4: MASTER
+    correctansw: GOBLIN
+  - questions: "Goblin dizisi ka\xE7 b\xF6l\xFCmd\xFCr? "
+    answ1: 14
+    answ2: 16
+    answ3: 18
+    answ4: 20
+    correctansw: 16
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi tarihi bir dizidir?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: D-DAY
+    answ3: MOTHER
+    answ4: MOON LOVERS
+    correctansw: MOON LOVERS
+  - questions: "Hangisi bir kore kanal\u0131d\u0131r?"
+    answ1: SBA
+    answ2: SBC
+    answ3: SBE
+    answ4: SBS
+    correctansw: SBS
+  - questions: "'Dizi, fiziksel olarak g\xFC\xE7l\xFC bir kad\u0131n olan (Park Bo-Young)
+      ile bir CEO olan An Min-Hyuk (Park Hyung-Sik) aras\u0131ndaki a\u015Fk\u0131
+      anlatmaktad\u0131r.'konusu verilendizi hangisidir?"
+    answ1: WEIGHTLIFTING FAIRY KIM BOK JOO
+    answ2: STRONG WOMAN DO BONG SOON
+    answ3: BIG
+    answ4: THE HEIRS
+    correctansw: STRONG WOMAN DO BONG SOON
+  - questions: " 'Song Hye-Kyo dizide, \xF6zel bir hastanede cerrah olarak \xE7al\u0131\u015Fan
+      Kang Mo-Yeon karakterini canland\u0131rmaktad\u0131r. Onun karakteri, televizyon
+      kanallar\u0131nda verdi\u011Fi t\u0131p bilgilerinden sonra \xFCnl\xFC bir y\xFCz
+      haline gelmi\u015Ftir ve ameliyathaneden \xE7\u0131kmayan bir doktorken hastanenin
+      VIP hastalar\u0131n\u0131n \xF6nemli olmayan sorunlar\u0131 ile ilgilenmeye
+      ba\u015Flam\u0131\u015Ft\u0131r. Bir g\xFCn, \xE7al\u0131\u015Ft\u0131\u011F\u0131
+      hastanenin sahibine \xE7antas\u0131 ile vurur ve bu duruma k\u0131zan hastanenin
+      sahibi onu g\xF6n\xFCll\xFC \xE7al\u0131\u015Fanlarla beraber sava\u015F yorgunu
+      bir \xFClke olan Uruk\u2019a g\xF6nderir.'karakteri anlat\u0131lan dizi a\u015Fa\u011F\u0131dakilerden
+      hangisidir?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: MOON LOVERS
+    answ3: K2
+    answ4: DOCTORS
+    correctansw: DESCENDANTS OF THE SUN
+  - questions: "\"T\xFCr: Dram, Romantik, Komedi, Gen\xE7lik B\xF6l\xFCm Say\u0131s\u0131:
+      20-Oyuncular\u0131: Lee Min Ho, Krystal, Park Shin Hye\"bilgileri verilen dizi
+      hangisidir?"
+    answ1: "THE HE\u0130RS"
+    answ2: SCHOOL 2013
+    answ3: THE LEGEND OF THE BLUE SEA
+    answ4: "MEMOR\u0130ES OF THE ALHAMBRA"
+    correctansw: "THE HE\u0130RS"
+  - questions: "T\xFCrk TV kanal\u0131nda yay\u0131nlanm\u0131\u015F olan 'Kalp At\u0131\u015F\u0131'
+      dizisi hangi kore dizisinden uyarlanm\u0131\u015Ft\u0131r? "
+    answ1: DOCTORS
+    answ2: GOOD DOCTOR
+    answ3: ROMANTIC DOCTOR TEACHER KIM
+    answ4: DOCTOR JOHN
+    correctansw: DOCTORS
+  - questions: "Lee Jong Suk a\u015Fa\u011F\u0131daki hangi dizilerde oynam\u0131\u015Ft\u0131r?"
+    answ1: MASK
+    answ2: W
+    answ3: GOBLIN
+    answ4: MAN FROM THE STARS
+    correctansw: W
+  - questions: "A\u015Fa\u011F\u0131daki hangi dizi fantastiktir?"
+    answ1: LOVE ALARM
+    answ2: DESIGNATED 60 DAYS
+    answ3: WEIGHTLIFTING FAIRY KIM BOK JOO
+    answ4: KILL ME HEAL ME
+    correctansw: LOVE ALARM
+  - questions: "Lee Min Ho A\u015Fa\u011F\u0131daki dizilerden hangisinde oynamam\u0131\u015Ft\u0131r?"
+    answ1: THE HEIRS
+    answ2: THE LEGEND OF THE BLUE SEA
+    answ3: MASK
+    answ4: SEVEN FIRST KISSES
+    correctansw: MASK
+  - questions: "Lee jong suk a\u015Fa\u011Fidaki hangi dizide ba\u015Frol olmam\u0131\u015Ft\u0131r?"
+    answ1: DOCTOR STRANGER
+    answ2: WEIGHTLIFTING FAIRY KIM BOK JOO
+    answ3: W
+    answ4: PINOCCHIO
+    correctansw: WEIGHTLIFTING FAIRY KIM BOK JOO
+  - questions: "Kim woo bin a\u015Fa\u011F\u0131daki dizilerinden hangisinde \xF6l\xFCme
+      yak\u0131n adam rol\xFCn\xFC oynam\u0131\u015Ft\u0131r?"
+    answ1: UNCONTROLLABLY FOND
+    answ2: SCHOOL 2013
+    answ3: THE HEIRS
+    answ4: LOVE CELLS
+    correctansw: UNCONTROLLABLY FOND
+  - questions: "A\u015Fa\u011F\u0131daki hangi dizi mini bir dizidir? "
+    answ1: KILL ME HEAL ME
+    answ2: FIGHT FOR MY WAY
+    answ3: PAGE TURNER
+    answ4: PLAYER
+    correctansw: PAGE TURNER
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi okul konulu bir dizidir?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: MOORIM SCHOOL
+    answ3: BLACK
+    answ4: MASTER
+    correctansw: MOORIM SCHOOL
+  - questions: "A\u015Fa\u011F\u0131daki hangi dizide ba\u015Froller ger\xE7ek hayatta
+      evlenmi\u015Ftir?"
+    answ1: BLOOD
+    answ2: GOBLIN
+    answ3: HIGH KICK
+    answ4: MASTER SUN
+    correctansw: BLOOD
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi mini dizi de\u011Fildir?"
+    answ1: PAGE TURNER
+    answ2: TRAP
+    answ3: SOMEHOW 18
+    answ4: HOTEL DEL LUNA
+    correctansw: HOTEL DEL LUNA
+  - questions: "A\u015Fa\u011F\u0131daki hangi dizi fantastik de\u011Fildir?"
+    answ1: GOBLIN
+    answ2: MOON LOVERS
+    answ3: DESCENDANTS OF THE SUN
+    answ4: BLACK
+    correctansw: DESCENDANTS OF THE SUN
+  - questions: "Hangi dizi komedi t\xFCr\xFCndedir?"
+    answ1: "EULACHACHA WA\u0130K\u0130K\u0130"
+    answ2: UNCONTROLLABLY FOND
+    answ3: "T\u0130ME"
+    answ4: TRAP
+    correctansw: "EULACHACHA WA\u0130K\u0130K\u0130"
+  - questions: "Hangi dizinin konu \u015Feytan \xE7\u0131karma ile ilgililir?"
+    answ1: 'PRIEST '
+    answ2: MOTHER
+    answ3: DDAY
+    answ4: MASTER
+    correctansw: 'PRIEST '
+  - questions: "'Doctor Stranger,Hymn Of Death,W' dizilerinde ba\u015Frol oynayan
+      oyuncu kimdir?"
+    answ1: LEE MIN HO
+    answ2: LEE JONG SUK
+    answ3: LEE SUNG KYUNG
+    answ4: "PARK SH\u0130N HYE"
+    correctansw: LEE JONG SUK
+  - questions: "'Healer,K2,Suspicious Partner' dizilerinde ba\u015Frol oynayan oyuncu
+      kimdir?"
+    answ1: LEE MIN HO
+    answ2: IU
+    answ3: JI CHANG WOOK
+    answ4: JANG HYUK
+    correctansw: JI CHANG WOOK
+  - questions: Hangi dizinin konusu hayaletler ile ilgilidir?
+    answ1: MASK
+    answ2: OH MY GHOST
+    answ3: EMPRESS KI
+    answ4: STRONG WOMAN DO BONG SOON
+    correctansw: OH MY GHOST
+  - questions: "Hangi dizinin konusu hayaletler ile ilgili de\u011Fildir?"
+    answ1: OH MY GHOST
+    answ2: MASTERS SUN
+    answ3: ARE YOU HUMAN TOO
+    answ4: GUEST
+    correctansw: ARE YOU HUMAN TOO
+  - questions: "'Dizi, bir insanm\u0131\u015F gibi davranan bir robot (Seo Kang-Joon)
+      ile onun bir insan oldu\u011Funu sanan korumas\u0131 (Kong Seung-Yeon) etraf\u0131nda
+      d\xF6nmektedir.'  konusu verilen dizi hangisidir?"
+    answ1: I AM NOT A ROBOT
+    answ2: ARE YOU HUMAN TOO
+    answ3: MY ABSOLUTE BOYFRIEND
+    answ4: ITEM
+    correctansw: I AM NOT A ROBOT
+  - questions: ' Hangi dizi seri katiller ile ilgilidir?'
+    answ1: "WEI\u0307GHTLI\u0307FTI\u0307NG FAI\u0307RY KI\u0307M BOK JOO"
+    answ2: VOICE
+    answ3: PRIEST
+    answ4: GAME OVER
+    correctansw: VOICE
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi otopsi ile ilgili bir dizidir?"
+    answ1: PARTNERS FOR JUSTICE
+    answ2: DOCTORS
+    answ3: DOCTOR STRANGER
+    answ4: GOOD DOCTOR
+    correctansw: PARTNERS FOR JUSTICE
+  - questions: " 'Dizi, a\u015Fktan ald\u0131\u011F\u0131 b\xFCy\xFCk bir yaradan
+      sonra kalbinin kap\u0131lar\u0131n\u0131 herkese kapatan bir kad\u0131n\u0131n
+      (Minah) etraf\u0131nda d\xF6nmektedir. Bir \u015Fekilde, m\xFCkemmel bir erkek
+      arkada\u015F olmas\u0131 i\xE7in programlanan insan g\xF6r\xFCn\xFCml\xFC bir
+      android robot (Yeo Jin-Goo) edinir.' konusu verilen dizi hangisidir?"
+    answ1: ARE YOU HUMAN TOO
+    answ2: I AM NOT A ROBOT
+    answ3: MY ABSOLUTE BOYFRIEND
+    answ4: GOLD
+    correctansw: MY ABSOLUTE BOYFRIEND
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisi kore dizisi de\u011Fildir?"
+    answ1: YOU
+    answ2: MAN FROM THE STARS
+    answ3: GOBLIN
+    answ4: BLACK
+    correctansw: YOU
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisi kore dizisidir?"
+    answ1: MARIANNE
+    answ2: KINGDOM
+    answ3: SHERLOCK
+    answ4: STRANGER THINGS
+    correctansw: KINGDOM
+  - questions: " A\u015Fa\u011F\u0131daki dizilerden hangisi zombilerle ilgilidir? "
+    answ1: KINGDOM
+    answ2: ELITE
+    answ3: THE LEGEND OF THE BLUE SEA
+    answ4: I AM SORRY I LOVE YOU
+    correctansw: KINGDOM
+  - questions: "G\xFCney ve Kuzey Kore aras\u0131ndaki sava\u015F hangi y\u0131llar
+      aras\u0131nda ger\xE7ekle\u015Fmi\u015Ftir?"
+    answ1: 1949 - 1951
+    answ2: 1953 - 1955
+    answ3: 1950 - 1953
+    answ4: 1950 - 1954
+    correctansw: 1950 - 1953
+  - questions: "G\xFCney Kore'de canl\u0131 olarak yenilen hayvan hangisidir?"
+    answ1: AHTAPOT
+    answ2: "YENGE\xC7"
+    answ3: BALIK
+    answ4: ISTAKOZ
+    correctansw: AHTAPOT
+  - questions: "G\xFCney Kore'nin en \xFCnl\xFC adalar\u0131ndan biri olan ve anlam\u0131da
+      \"ilahi bir perinin gelip dans etti\u011Fi ada\" olan adan\u0131n ismi nedir?"
+    answ1: HONGDO ADASI
+    answ2: JEJU ADASI
+    answ3: SEONJAEODO ADASI
+    answ4: GEOJEDO ADASI
+    correctansw: SEONJAEODO ADASI
+  - questions: "G\xFCney Kore'de estetik ameliyat\u0131 en \xE7ok hangi b\xF6lgede
+      uygulan\u0131r?"
+    answ1: "G\xD6Z KAPA\u011EI"
+    answ2: BURUN
+    answ3: "\xC7ENE"
+    answ4: "KA\u015E KALDIRMA"
+    correctansw: "G\xD6Z KAPA\u011EI"
+  - questions: "Oppa'n\u0131n anlam\u0131 nedir?"
+    answ1: "AB\u0130"
+    answ2: BABA
+    answ3: ANNE
+    answ4: DEDE
+    correctansw: "AB\u0130"
+  - questions: Bias ne demektir?
+    answ1: "B\u0130R GRUPTAK\u0130 EN \xDCNL\xDC K\u0130\u015E\u0130"
+    answ2: "B\u0130R GRUPTAK\u0130 EN SEVD\u0130\u011E\u0130N K\u0130\u015E\u0130"
+    answ3: "B\u0130R GRUBUN EN K\xDC\xC7\xDCK \xDCYES\u0130"
+    answ4: "B\u0130R GRUBUN H\u0130T OLAN \u015EARKISI"
+    correctansw: "B\u0130R GRUPTAK\u0130 EN SEVD\u0130\u011E\u0130N K\u0130\u015E\u0130"
+  - questions: "G\xFCney Kore'de u\u011Fursuz say\u0131lan rakam hangisidir?"
+    answ1: 3
+    answ2: 4
+    answ3: 9
+    answ4: 13
+    correctansw: 4
+  - questions: "Oppa'n\u0131n anlam\u0131 nedir?"
+    answ1: "\xC7ORBA"
+    answ2: MANTI
+    answ3: TORUN
+    answ4: "SEVG\u0130L\u0130"
+    correctansw: "SEVG\u0130L\u0130"
+  - questions: "G\xFCney Kore'de u\u011Fursuz olarak kabul edilen renk hangisidir?"
+    answ1: MOR
+    answ2: "S\u0130YAH"
+    answ3: KIRMIZI
+    answ4: TURUNCU
+    correctansw: KIRMIZI
+  - questions: "Ka\xE7 tane School serisi vard\u0131r?"
+    answ1: 1
+    answ2: 2
+    answ3: 3
+    answ4: 4
+    correctansw: 3
+  - questions: "BTS hangi y\u0131l kurulmu\u015Ftur?"
+    answ1: 2011
+    answ2: 2012
+    answ3: 2013
+    answ4: 2014
+    correctansw: 2013
+  - questions: "Super Junior'un \xFCye say\u0131s\u0131 ka\xE7t\u0131r?"
+    answ1: 10
+    answ2: 13
+    answ3: 11
+    answ4: 12
+    correctansw: 13
+  - questions: "BTS'de  ana rap\xE7i kimdir?"
+    answ1: SUGA
+    answ2: RM
+    answ3: JIN
+    answ4: HOPE
+    correctansw: RM
+  - questions: "Lee Jonk Suk ka\xE7 ya\u015F\u0131ndad\u0131r?"
+    answ1: 28
+    answ2: 27
+    answ3: 29
+    answ4: 30
+    correctansw: 30
+  - questions: "A\u015Fa\u011F\u0131daki idollerden hangisi Super M grubunda de\u011Fildir?"
+    answ1: TAEMIN
+    answ2: KAI
+    answ3: MARK
+    answ4: JISUNG
+    correctansw: JISUNG
+  - questions: "Blackpink'in ana rapper\u0131 kimdir? "
+    answ1: JENNIE
+    answ2: JISOO
+    answ3: ROSE
+    answ4: LISA
+    correctansw: JENNIE
+  - questions: 'Hangi dizi fantastiktir? '
+    answ1: BLACK
+    answ2: MASK
+    answ3: SUSPICIOUS PARTNER
+    answ4: THE LIAR AND HIS LOVER
+    correctansw: BLACK
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi bir hukuk dizisidir?"
+    answ1: MOON LOVERS
+    answ2: D-DAY
+    answ3: REMEMBER
+    answ4: YONGPAL
+    correctansw: REMEMBER
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi medikal konulu bir dizidir?"
+    answ1: I AM NOT A ROBOT
+    answ2: LOVE IS SADNESS
+    answ3: ARE YOU HUMAN TOO
+    answ4: D-DAY
+    correctansw: D-DAY
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisi a\u011F\u0131r dram i\xE7erir?"
+    answ1: UNCONTROLLABLY FOND
+    answ2: "EULACHACHA WA\u0130K\u0130K\u0130"
+    answ3: "CH\u0130EF K\u0130M"
+    answ4: WHY SECRETARY KIM
+    correctansw: UNCONTROLLABLY FOND
+  - questions: "'Saranghae' kelimesinin anlam\u0131 nedir?"
+    answ1: "SEN\u0130 SEVM\u0130YORUM"
+    answ2: "SEN\u0130 SEV\u0130YORUM"
+    answ3: "SEN\u0130 SEVECE\u011E\u0130M"
+    answ4: "SEN\u0130 SEVEM\u0130YORUM"
+    correctansw: "SEN\u0130 SEV\u0130YORUM"
+  - questions: "'Goco' kelimesinin anlam\u0131 nedir?"
+    answ1: DEFOL
+    answ2: GEL
+    answ3: 'ALO '
+    answ4: "\xD6P"
+    correctansw: DEFOL
+  - questions: "Hangi K-POP grubu sadece k\u0131zlardan olu\u015Fmaktad\u0131r?"
+    answ1: BTS
+    answ2: EXO
+    answ3: BLACKPINK
+    answ4: ASTRO
+    correctansw: BLACKPINK
+  - questions: "'Kamsahamnida' kelimesinin anlam\u0131 nedir?"
+    answ1: "TE\u015EEKK\xDCR EDER\u0130M"
+    answ2: "\xD6Z\xDCR D\u0130LER\u0130M"
+    answ3: "K\u0130MS\u0130N\u0130Z?"
+    answ4: "SEN M\u0130S\u0130N?"
+    correctansw: "TE\u015EEKK\xDCR EDER\u0130M"
+  - questions: "'Miane' kelimesinin anlam\u0131 nedir? "
+    answ1: BANA BAK
+    answ2: "\xD6Z\xDCR D\u0130LER\u0130M"
+    answ3: 'GEL '
+    answ4: "G\u0130T"
+    correctansw: "\xD6Z\xDCR D\u0130LER\u0130M"
+  - questions: "'Dongseng' kelimesinin anlam\u0131 nedir?"
+    answ1: "AB\u0130"
+    answ2: ABLA
+    answ3: "KARDE\u015E"
+    answ4: "B\xDCY\xDCKBABA"
+    correctansw: "KARDE\u015E"
+  - questions: "Hangi dizi 12 b\xF6l\xFCmd\xFCr?"
+    answ1: DESCENDANTS OF THE SUN
+    answ2: MOON LOVERS
+    answ3: GOBLIN
+    answ4: VOICE 2
+    correctansw: VOICE 2
+  - questions: "'Aniyo' kelimesinin anlam\u0131 nedir?"
+    answ1: EVET
+    answ2: "G\u0130T"
+    answ3: HAYIR
+    answ4: GEL
+    correctansw: HAYIR
+  - questions: "'\u0130ssoyo' kelimesinin anlam\u0131 nedir?"
+    answ1: YOK
+    answ2: VAR
+    answ3: 'AZ '
+    answ4: "\xC7OK"
+    correctansw: VAR
+  - questions: "'Ma\u015Fissoyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u0130\u011EREN\xC7"
+    answ2: "LEZZETL\u0130"
+    answ3: "SEN K\u0130MS\u0130N"
+    answ4: "BEN\u0130M"
+    correctansw: "LEZZETL\u0130"
+  - questions: "'Ottoke' kelimesinin anlam\u0131 nedir?"
+    answ1: "K\u0130M"
+    answ2: NASIL
+    answ3: O MU
+    answ4: BU MU
+    correctansw: NASIL
+  - questions: "'\xC7ogiyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "AFFEDERS\u0130N\u0130Z"
+    answ2: "L\xDCTFEN"
+    answ3: "K\u0130M"
+    answ4: BEN
+    correctansw: "AFFEDERS\u0130N\u0130Z"
+  - questions: "'K\u0131rae' kelimesinin anlam\u0131 nedir?"
+    answ1: TAMAM MI ?
+    answ2: "ANLA\u015EILDI MI?"
+    answ3: "\xD6YLE M\u0130?"
+    answ4: BEKLE
+    correctansw: "\xD6YLE M\u0130?"
+  - questions: "'Maldo An D\xF6e' kelimesinin anlam\u0131 nedir?"
+    answ1: 'OLUR '
+    answ2: "G\u0130DEL\u0130M"
+    answ3: "GELEL\u0130M"
+    answ4: OLAMAZ
+    correctansw: OLAMAZ
+  - questions: "'K\u0131manhae' kelimesinin anlam\u0131 nedir?"
+    answ1: BU MU
+    answ2: "SEN M\u0130S\u0130N?"
+    answ3: YETER ARTIK
+    answ4: O MU ?
+    correctansw: YETER ARTIK
+  - questions: "'Omo' kelimesinin anlam\u0131 nedir?"
+    answ1: AMAN TANRIM
+    answ2: SIVI  DETERJAN :)
+    answ3: ALO
+    answ4: "K\u0130M"
+    correctansw: AMAN TANRIM
+  - questions: "'K\u0131romyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "SEN M\u0130S\u0130N?"
+    answ2: BU MU ?
+    answ3: "\xD6YLE"
+    answ4: "TAB\u0130 K\u0130"
+    correctansw: "TAB\u0130 K\u0130"
+  - questions: "'Mworago' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u015EU MU?"
+    answ2: "NE DED\u0130N?"
+    answ3: "ANLA\u015EILDI"
+    answ4: "G\u0130DEL\u0130M"
+    correctansw: "NE DED\u0130N?"
+  - questions: "'K\u0131rohguna' kelimesinin anlam\u0131 nedir?"
+    answ1: ANLIYORUM
+    answ2: "DEMEK \xD6YLE"
+    answ3: "ANLA\u015EILDI"
+    answ4: "PEK\u0130"
+    correctansw: "DEMEK \xD6YLE"
+  - questions: "'Gamcagiya' kelimesinin anlam\u0131 nedir?"
+    answ1: ANLIYORUM
+    answ2: "SEN K\u0130MS\u0130N"
+    answ3: "\xD6D\xDCM KOPTU"
+    answ4: "G\u0130DER M\u0130S\u0130N"
+    correctansw: "\xD6D\xDCM KOPTU"
+  - questions: "'\u0130ronha' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xD6L"
+    answ2: GEZ
+    answ3: UYAN
+    answ4: KAPAT
+    correctansw: UYAN
+  - questions: "'\xC7ebal' kelimesinin anlam\u0131 nedir?"
+    answ1: YARDIM
+    answ2: BEN
+    answ3: "L\xDCTFEN"
+    answ4: "KO\u015E"
+    correctansw: "L\xDCTFEN"
+  - questions: "'Balli' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xC7ABUK"
+    answ2: "\u0130LER\u0130"
+    answ3: ANLADIM
+    answ4: "K\u0130M"
+    correctansw: "\xC7ABUK"
+  - questions: Korece 1-2-3 ne demektir?
+    answ1: SET-TUL-HANA
+    answ2: TUL-HANA-SET
+    answ3: HANA-TUL-SET
+    answ4: HANA-SET-TUL
+    correctansw: HANA-TUL-SET
+  - questions: "'Eomeoni' kelimesinin anlam\u0131 nedir?"
+    answ1: ANNE
+    answ2: BABA
+    answ3: DEDE
+    answ4: TEYZE
+    correctansw: ANNE
+  - questions: "'Haraboci' kelimesinin anlam\u0131 nedir?"
+    answ1: "B\xDCY\xDCK ANNE"
+    answ2: "B\xDCY\xDCK BABA"
+    answ3: TEYZE
+    answ4: AMCA
+    correctansw: "B\xDCY\xDCK BABA"
+  - questions: "'Jahshimanyo' kelimesinin anlam\u0131 nedir?"
+    answ1: BAKAR MISINIZ
+    answ2: "S\u0130Z K\u0130MS\u0130NZ"
+    answ3: O MU
+    answ4: "K\u0130M"
+    correctansw: BAKAR MISINIZ
+  - questions: "'Odiyeyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u015EU MU"
+    answ2: "GEL\u0130R M\u0130S\u0130N"
+    answ3: "ANLA\u015EILDI"
+    answ4: NEREDE
+    correctansw: NEREDE
+  - questions: "'Jebal' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xD6ZLED\u0130M"
+    answ2: "KO\u015E"
+    answ3: "L\xDCTFEN"
+    answ4: "G\u0130DEL\u0130M"
+    correctansw: "L\xDCTFEN"
+  - questions: "'Hajiman' kelimesinin anlam\u0131 nedir?"
+    answ1: O
+    answ2: AMA
+    answ3: "\u015EU"
+    answ4: YALVARIRIM
+    correctansw: AMA
+  - questions: "'Kojimal' kelimesinin anlam\u0131 nedir?"
+    answ1: YALAN
+    answ2: "DO\u011ERU"
+    answ3: YUKARI
+    answ4: "A\u015EA\u011EI"
+    correctansw: YALAN
+  - questions: "'Yaksok' kelimesinin anlam\u0131 nedir?"
+    answ1: "ANLA\u015EILDI"
+    answ2: AMAN
+    answ3: "\xD6P"
+    answ4: "S\xD6Z"
+    correctansw: "S\xD6Z"
+  - questions: "'Babo' kelimesinin anlam\u0131 nedir?"
+    answ1: AKILLI
+    answ2: APTAL
+    answ3: "\xC7\u0130RK\u0130N"
+    answ4: "\u015E\u0130R\u0130N"
+    correctansw: APTAL
+  - questions: "Hangi dizinin filmi \xE7ekilmi\u015Ftir?"
+    answ1: GOBLIN
+    answ2: MOON LOVERS
+    answ3: CHEESE IN THE TRAP
+    answ4: BLACK
+    correctansw: CHEESE IN THE TRAP
+  - questions: "'\xC7ogiyo' kelimesinin anlam\u0131 nedir?"
+    answ1: BAKAR MISINIZ
+    answ2: DUR
+    answ3: "K\u0130M"
+    answ4: "G\u0130T"
+    correctansw: BAKAR MISINIZ
+  - questions: "'Yoboseyo' kelimesinin anlam\u0131 nedir?"
+    answ1: EVET
+    answ2: HAYIR
+    answ3: ALO
+    answ4: "BEN\u0130M"
+    correctansw: ALO
+  - questions: "'Annyeonghaseyo' kelimesinin anlam\u0131 nedir?"
+    answ1: TAMAM
+    answ2: MERHABA
+    answ3: GEZ
+    answ4: "K\u0130M\u0130N"
+    correctansw: MERHABA
+  - questions: Hangi dizinin konusu 'Zoraki evlilik' konuludur?
+    answ1: MASK
+    answ2: "M\u0130STY"
+    answ3: SOLOMONS PERJURY
+    answ4: BUBBLEGUM
+    correctansw: MASK
+  - questions: "Hangi dizi netflix yap\u0131m\u0131 bir kore dizisidir?"
+    answ1: HOTEL DEL LUNA
+    answ2: VAGABOND
+    answ3: TRAP
+    answ4: GOBLIN
+    correctansw: VAGABOND
+  - questions: "Patron ve \xC7al\u0131\u015Fan\u0131 aras\u0131ndaki a\u015Fk konulu
+      dizi a\u015Fa\u011F\u0131dakilerden hangisidir?"
+    answ1: "M\u0130STRESS"
+    answ2: GOOD DOCTOR
+    answ3: MOON LOVERS
+    answ4: STRONG WOMAN DO BONG SOON
+    correctansw: STRONG WOMAN DO BONG SOON
+  - questions: "Hangi dizinin konusu \xE7irkinden g\xFCzele d\xF6nme konuludur?"
+    answ1: BLOOD
+    answ2: K2
+    answ3: MY ID IS GANGNAM BEAUTY
+    answ4: STILL 17
+    correctansw: MY ID IS GANGNAM BEAUTY
+  - questions: "'Cheon Song Yi' hangi kore dizisinin kurgusal kad\u0131n karakteridir?"
+    answ1: SHE WAS PRETTY
+    answ2: THE LEGEND OF THE BLUE SEA
+    answ3: MY LOVE FROM THE STARS
+    answ4: MY GIRLFRIEND IS A GUMIHO
+    correctansw: MY LOVE FROM THE STARS
+  - questions: "'Descendants of the sun' dizisindeki kurgusal yerin ad\u0131?"
+    answ1: URUK
+    answ2: URAL
+    answ3: URET
+    answ4: URAN
+    correctansw: URUK
+  - questions: "'Boys over flowers' dizisindeki F4'\xFCn okudu\u011Fu okulun ad\u0131?"
+    answ1: WOOSEONG
+    answ2: SHINHWA
+    answ3: JAEGUK
+    answ4: SEGANG
+    correctansw: SHINHWA
+  - questions: "A\u015Fa\u011F\u0131daki dizilerden hangisi webtoon uyarlamas\u0131
+      de\u011Fildir?"
+    answ1: FLOWER BOY NEXT DOOR
+    answ2: "M\u0130SAENG"
+    answ3: SCHOLAR WHO WALKS THE NIGHT
+    answ4: W
+    correctansw: W
+  - questions: '''Kwon Shi-Hyun'' hangi dizinin kurgusal erkek karakteridir?'
+    answ1: MAD DOG
+    answ2: THE GREAD SEDUCER
+    answ3: GOBLIN
+    answ4: CHEESE IN THE TRAP
+    correctansw: THE GREAD SEDUCER
+  - questions: "A\u015Fa\u011F\u0131dakilerden hangisinde bir haber spikeri seri katildir?"
+    answ1: 'ITEM '
+    answ2: BAD GUYS
+    answ3: TRAP
+    answ4: VOICE
+    correctansw: TRAP
+  - questions: "'Gwenchanha' kelimesinin anlam\u0131 nedir?"
+    answ1: 'NE '
+    answ2: ANLAMIYORUM
+    answ3: "Y\xDCR\xDC"
+    answ4: "SORUN DE\u011E\u0130L"
+    correctansw: "SORUN DE\u011E\u0130L"
+  - questions: "'Chingu' kelimesinin anlam\u0131 nedir?"
+    answ1: "ARKADA\u015E"
+    answ2: KUZEN
+    answ3: "A\u0130LE"
+    answ4: "\u015E\u0130R\u0130N"
+    correctansw: "ARKADA\u015E"
+  - questions: "'Yeppeo' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xC7\u0130RK\u0130N"
+    answ2: "G\xDCZEL"
+    answ3: "ARKADA\u015E CANLISI"
+    answ4: DOST
+    correctansw: "G\xDCZEL"
+  - questions: "School 2013 dizisinde hangi ikili oynam\u0131\u015Ft\u0131r?"
+    answ1: LEE MIN HOO-LE JONG SUK
+    answ2: "LE JONG SUK-K\u0130M WOO B\u0130N"
+    answ3: "K\u0130M WOO B\u0130N-WOO DO HWAN"
+    answ4: LEE JONG SUK-TAECHYON
+    correctansw: "LE JONG SUK-K\u0130M WOO B\u0130N"
+  - questions: "Memories Of The Alhambra dizisi nerede \xE7ekilmi\u015Ftir?"
+    answ1: "\u0130SPANYA"
+    answ2: "AMER\u0130KA"
+    answ3: KANADA
+    answ4: "\u0130TALYA"
+    correctansw: "\u0130SPANYA"
+  - questions: Hangi dizinin 2. sezonu yoktur?
+    answ1: MOON LOVERS
+    answ2: KINGDOM
+    answ3: SAVE ME
+    answ4: "EULACHACHA WA\u0130K\u0130K\u0130"
+    correctansw: MOON LOVERS
+  - questions: Hangi dizi hem medikal hem hukuk konuludur?
+    answ1: WHISPER
+    answ2: PARTNER FOR JUSTICE
+    answ3: LAWLESS LAWYER
+    answ4: ARGON
+    correctansw: PARTNER FOR JUSTICE
+  - questions: "'Aboci' kelimesinin anlam\u0131 nedir?"
+    answ1: 'ANNE '
+    answ2: BABA
+    answ3: AMCA
+    answ4: "YE\u011EEN"
+    correctansw: BABA
+  - questions: "'Cal ca' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u0130Y\u0130 GECELER"
+    answ2: NABER
+    answ3: "G\xDCNAYDIN"
+    answ4: "\u0130Y\u0130 AK\u015EAMLAR"
+    correctansw: "\u0130Y\u0130 GECELER"
+  - questions: "'\xC7eonmaneyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "\xD6Z\xDCR D\u0130LER\u0130M"
+    answ2: "TEBR\u0130KLER"
+    answ3: "\u0130Y\u0130"
+    answ4: "SORUN DE\u011E\u0130L"
+    correctansw: "SORUN DE\u011E\u0130L"
+  - questions: "'Guanchanayo' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u0130Y\u0130Y\u0130M"
+    answ2: "K\xD6T\xDCY\xDCM"
+    answ3: MUTLUYUM
+    answ4: "\xDCZG\xDCN\xDCM"
+    correctansw: "\u0130Y\u0130Y\u0130M"
+  - questions: "'Ajumma' kelimesinin anlam\u0131 nedir?"
+    answ1: YENGE
+    answ2: TEYZE
+    answ3: "YE\u011EEN"
+    answ4: KUZEN
+    correctansw: TEYZE
+  - questions: "'Agashi' kelimesinin anlam\u0131 nedir?"
+    answ1: "HANIMEFEND\u0130"
+    answ2: "BEYEFEND\u0130"
+    answ3: "K\u0130MS\u0130N"
+    answ4: BAK
+    correctansw: "HANIMEFEND\u0130"
+  - questions: "'Mama' kelimesinin anlam\u0131 nedir?"
+    answ1: PRENS
+    answ2: PRENSES
+    answ3: "MAJESTELER\u0130"
+    answ4: "KRAL\u0130\xC7E"
+    correctansw: "MAJESTELER\u0130"
+  - questions: "'Sallyocuseyo' kelimesinin anlam\u0131 nedir?"
+    answ1: "G\u0130D\u0130N"
+    answ2: "BA\u011EI\u015ELAYIN"
+    answ3: HEMEN
+    answ4: SONRA
+    correctansw: "BA\u011EI\u015ELAYIN"
+  - questions: "'Bogoshipda' kelimesinin anlam\u0131 nedir?"
+    answ1: "SEN\u0130 SEV\u0130YORUM"
+    answ2: "SEN\u0130 \xD6ZLED\u0130M"
+    answ3: "SEN\u0130 \u0130ST\u0130YORUM"
+    answ4: "SEN\u0130 S\u0130L\u0130YORUM"
+    correctansw: "SEN\u0130 \xD6ZLED\u0130M"
+  - questions: "'Senil \xE7ughahamnida' kelimesinin anlam\u0131 nedir?"
+    answ1: "\u0130Y\u0130K\u0130 VARSIN"
+    answ2: "\xC7OK G\xDCZEL"
+    answ3: MUTLU NOELLER
+    answ4: "DO\u011EUM G\xDCN\xDCN KUTLU OLSUN"
+    correctansw: "DO\u011EUM G\xDCN\xDCN KUTLU OLSUN"
+  soruText: {fileID: 114442647347826874}
+  answ:
+  - {fileID: 1728407910391260}
+  - {fileID: 1780284783632478}
+  - {fileID: 1974860845645522}
+  - {fileID: 1521569633950164}
+--- !u!114 &114578385763668268
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114595934988686720
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114615845753055174
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114617980102677332
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.4198113, g: 1, b: 0.4625362, a: 0.85882354}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114636253851156332
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: fd18a128ad958ac4fa23e9438a8041ac, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 74
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "\u015EIKLI SORU"
+--- !u!114 &114670822560372756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0.3915094, b: 0.3915094, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 67d8ea21b398dd7459082fbc0632dc35, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114738324932027180
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 56314d2afa5482042ba000347e73626f, type: 3}
+    m_FontSize: 41
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 41
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Hay\u0131r"
+--- !u!114 &114756853600891134
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114101864669886630}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114783216224315598
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1114d50d024abc44bb0b8c11d078151d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114827085644169550
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.74509805, g: 0.74509805, b: 0.74509805, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 0}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114839303263232232
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114924594211543428}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114873695287820846
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 114546375792673624}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114576570501066236}
+        m_MethodName: AnswerTheQuestion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!114 &114890395441672862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 59007a45ede29434c818400fa62d859d, type: 3}
+    m_FontSize: 91
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 91
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Soruyu Atla
+--- !u!114 &114894122608353082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &114924594211543428
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 6dbd01d60e13cb94ab8817f13b44e559, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114936236932049758
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 0
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: 1c3faaa58960c20429bbb34c5f73fa01, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114950654482457376
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.3773585, g: 0.3773585, b: 0.3773585, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_Sprite: {fileID: 21300000, guid: f063e8d52d4d27a41b016874643450e0, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+--- !u!114 &114973184132683204
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
+      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: 0ee533e2387ce114f92ba39ae7810ef7, type: 3}
+    m_FontSize: 56
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 101
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: A
+--- !u!222 &222052198573367788
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_CullTransparentMesh: 0
+--- !u!222 &222147776568775628
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_CullTransparentMesh: 0
+--- !u!222 &222177145823165354
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_CullTransparentMesh: 0
+--- !u!222 &222180907428887340
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_CullTransparentMesh: 0
+--- !u!222 &222221967342958042
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_CullTransparentMesh: 0
+--- !u!222 &222344651601643088
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_CullTransparentMesh: 0
+--- !u!222 &222345733074881380
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_CullTransparentMesh: 0
+--- !u!222 &222353513852942518
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_CullTransparentMesh: 0
+--- !u!222 &222393152293725634
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_CullTransparentMesh: 0
+--- !u!222 &222410961142232494
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_CullTransparentMesh: 0
+--- !u!222 &222470841505427022
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_CullTransparentMesh: 0
+--- !u!222 &222489637456616502
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_CullTransparentMesh: 0
+--- !u!222 &222513558604817998
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_CullTransparentMesh: 0
+--- !u!222 &222528864616374266
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_CullTransparentMesh: 0
+--- !u!222 &222583135477060098
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_CullTransparentMesh: 0
+--- !u!222 &222600020052375128
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_CullTransparentMesh: 0
+--- !u!222 &222614492575151828
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_CullTransparentMesh: 0
+--- !u!222 &222616242898074494
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_CullTransparentMesh: 0
+--- !u!222 &222677268787287132
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_CullTransparentMesh: 0
+--- !u!222 &222706754371195920
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_CullTransparentMesh: 0
+--- !u!222 &222780060612575666
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_CullTransparentMesh: 0
+--- !u!222 &222785089432799884
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_CullTransparentMesh: 0
+--- !u!222 &222824045342302066
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_CullTransparentMesh: 0
+--- !u!222 &222842116888295100
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_CullTransparentMesh: 0
+--- !u!222 &222861536852464758
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_CullTransparentMesh: 0
+--- !u!222 &222906995970652820
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_CullTransparentMesh: 0
+--- !u!222 &222920007776543282
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_CullTransparentMesh: 0
+--- !u!222 &222942577332182786
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_CullTransparentMesh: 0
+--- !u!222 &222988292217579496
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_CullTransparentMesh: 0
+--- !u!222 &222998211396672930
+CanvasRenderer:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_CullTransparentMesh: 0
+--- !u!223 &223042259255293412
+Canvas:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 1
+  m_TargetDisplay: 0
+--- !u!223 &223986572101954772
+Canvas:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &224138444105568396
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1692140774936100}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 188.04999}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224162209243053848
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1643923053165246}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.000015258789, y: 22.004997}
+  m_SizeDelta: {x: -44.01, y: -44.01}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224175835930689212
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1962627004269192}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.000026703, y: 67}
+  m_SizeDelta: {x: 491.9, y: 150.4}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224189285833943978
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1274219286122414}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224593850831757978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: 2.2}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224208578683535890
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1658652414502476}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.35586, y: 0.35586, z: 0.35586}
+  m_Children: []
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.0000038146973, y: -20.6}
+  m_SizeDelta: {x: 283.9, y: 97.3}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224244026345235002
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006670449325182}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224755867141958340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: -0.6}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224253995561388274
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1368684422496840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224446392464262204}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224285301857153088
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1879428348060190}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224768906830236432}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224311701437556326
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186178873273878}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224414055843995508}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -2.100006, y: 108.20001}
+  m_SizeDelta: {x: -516.1, y: -296.6}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224329743156695234
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1600156247231276}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224998267269841754}
+  - {fileID: 224478235255584062}
+  - {fileID: 224138444105568396}
+  - {fileID: 224668294749508198}
+  - {fileID: 224768906830236432}
+  - {fileID: 224755867141958340}
+  - {fileID: 224593850831757978}
+  - {fileID: 224780806592182172}
+  m_Father: {fileID: 224425331370903760}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -428.8}
+  m_SizeDelta: {x: 0, y: -858.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224367787805110420
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1868829310485744}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224780806592182172}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224407873134639662
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1392414721680324}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224434578881826052}
+  - {fileID: 224446392464262204}
+  - {fileID: 224175835930689212}
+  m_Father: {fileID: 224963608693407520}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -196.52, y: -253.6}
+  m_SizeDelta: {x: 393, y: 195.1}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224414055843995508
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1920306344839754}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224311701437556326}
+  - {fileID: 224951710299877364}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -0.000013113, y: -375}
+  m_SizeDelta: {x: 740.6, y: 390.8}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224421645682080354
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1220670798582712}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224768906830236432}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: -3.4}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224425331370903760
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1470403479273734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 224632164664651336}
+  - {fileID: 224329743156695234}
+  m_Father: {fileID: 4551138420701816}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!224 &224434578881826052
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1572551366033224}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224508788761306794}
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 115.47, y: 75.000015}
+  m_SizeDelta: {x: 283.65, y: 128.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224446392464262204
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1036762737531132}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+  m_Children:
+  - {fileID: 224253995561388274}
+  m_Father: {fileID: 224407873134639662}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -142, y: 75}
+  m_SizeDelta: {x: 231.3, y: 89.9}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224467490119015952
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1478961442952700}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224844474550064140}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
+  m_AnchoredPosition: {x: -0.000012875, y: -89.6001}
+  m_SizeDelta: {x: 450, y: 180}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224478235255584062
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1410385298115608}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 289.00003}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224508788761306794
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1505768038411896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224434578881826052}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224576970768948580
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1997040812856238}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224780806592182172}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 255.3, y: 4.9}
+  m_SizeDelta: {x: 415.5, y: 97.2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224593850831757978
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1974860845645522}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224189285833943978}
+  - {fileID: 224674464741909770}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 188.04999}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224632164664651336
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1343203284683906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224467490119015952}
+  - {fileID: 224414055843995508}
+  - {fileID: 224963608693407520}
+  m_Father: {fileID: 224425331370903760}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -141.14001}
+  m_SizeDelta: {x: 0, y: -283.19995}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224668294749508198
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1733990316870512}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000035, y: 87.54999}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224674464741909770
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1142015046899492}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224593850831757978}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224755867141958340
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1780284783632478}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224244026345235002}
+  - {fileID: 224894402258700692}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 290.25003}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224768906830236432
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1728407910391260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224421645682080354}
+  - {fileID: 224285301857153088}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 390.75}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224780806592182172
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1521569633950164}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224576970768948580}
+  - {fileID: 224367787805110420}
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: -213.29996, y: 88.79999}
+  m_SizeDelta: {x: 115, y: 115}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224844474550064140
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1309120345332990}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224467490119015952}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.024993896, y: 0.000091552734}
+  m_SizeDelta: {x: -24.700012, y: -36.199997}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224894402258700692
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1075587218758530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224755867141958340}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224951710299877364
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1302838369675084}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224414055843995508}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -2.100006, y: -42.69998}
+  m_SizeDelta: {x: -123.5, y: -181.7}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!224 &224963608693407520
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1637300736533168}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 224162209243053848}
+  - {fileID: 224208578683535890}
+  - {fileID: 224407873134639662}
+  m_Father: {fileID: 224632164664651336}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -95.99994, y: -85.26004}
+  m_SizeDelta: {x: 150, y: 150}
+  m_Pivot: {x: 0.50000006, y: 0.5}
+--- !u!224 &224998267269841754
+RectTransform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1935645404696478}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 224329743156695234}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0}
+  m_AnchorMax: {x: 0.5, y: 0}
+  m_AnchoredPosition: {x: 4.000003, y: 389.50003}
+  m_SizeDelta: {x: 549.6, y: 112.5}
+  m_Pivot: {x: 0.5, y: 0.5}

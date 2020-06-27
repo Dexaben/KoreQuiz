@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ff3f02958ab697748919b6d006db4e37
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Syabil
+  fontNames:
+  - Syabil
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9db59179430df5d4295947b4e2283214, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
